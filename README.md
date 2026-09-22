@@ -13,22 +13,6 @@ La última versión está siempre en **[Releases](../../releases/latest)**.
 
 Descarga el fichero `Arcia_X.Y.Z_x64-setup.exe` y ejecútalo.
 
-## Si antes tenías LeadHunter
-
-**Arcia es LeadHunter.** Cambió de nombre en la versión 1.6.0; es el mismo
-programa y no se ha quitado ninguna función.
-
-La primera vez que abras Arcia se lleva sola a su carpeta la base de leads, tus
-notas, tu guion, los ajustes, las copias de seguridad y la licencia. **Tu clave
-sigue valiendo**: el código de tu ordenador no cambia al cambiar el nombre de la
-app, así que no hay que reactivar nada.
-
-Al actualizar desde una versión 1.5.x te podía quedar LeadHunter instalado al
-lado, con el icono de siempre abriendo la app vieja y pidiéndote la licencia. No
-era una pérdida de datos: eran dos programas a la vez. **Desde la 1.6.1 el
-instalador lo retira solo** y deja el acceso directo de Arcia en su sitio, sin
-tocar en ningún momento la carpeta de datos.
-
 ## Al instalar, Windows te va a avisar
 
 Verás una pantalla que dice **«Windows protegió su PC»** y menciona un *editor
@@ -162,12 +146,12 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 | **1.6.4** | 06-09-2026 | Permiso explícito para usar los modelos que entrenan con lo que se les manda. |
 | **1.6.3** | 06-09-2026 | Nuevos proveedores de IA, OpenCode Zen y Groq, y relevo automático cuando el tuyo no contesta. |
 | **1.6.2** | 06-09-2026 | Termina la cara nueva: la letra pasa a ser la del logotipo. |
-| **1.6.1** | 06-09-2026 | Arregla la actualización desde LeadHunter y quita el azul de la interfaz. |
-| **1.6.0** | 05-09-2026 | **LeadHunter pasa a llamarse Arcia.** El mismo programa, con otra cara. |
+| **1.6.1** | 06-09-2026 | Arregla un fallo al actualizar desde la 1.5 y quita el azul de la interfaz. |
+| **1.6.0** | 05-09-2026 | **Imagen nueva**: nombre, logotipo e iconos nuevos. Mismas funciones. |
 
 Las versiones 1.6.20 y 1.6.21 no llegaron a publicarse.
 
-### LeadHunter 1.5
+### Arcia 1.5
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -183,7 +167,7 @@ Las versiones 1.6.20 y 1.6.21 no llegaron a publicarse.
 | **1.5.1** | 28-08-2026 | La extensión se instala en dos pasos, y las fotos de los negocios ya no dependen de la suerte. |
 | **1.5.0** | 28-08-2026 | Búsqueda de correos cuatro veces más rápida, fuera los negocios fantasma y la ficha del lead más despejada. |
 
-### LeadHunter 1.4
+### Arcia 1.4
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -193,7 +177,7 @@ Las versiones 1.6.20 y 1.6.21 no llegaron a publicarse.
 | **1.4.1** | 26-08-2026 | Dos arreglos de la lista al abrir la ficha de un negocio. |
 | **1.4.0** | 25-08-2026 | El horario debajo del teléfono, en amarillo si está cerrado; búsqueda de correos más rápida; buscador de Google y extensión del navegador. |
 
-### LeadHunter 1.0 – 1.3
+### Arcia 1.0 – 1.3
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
