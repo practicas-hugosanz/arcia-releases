@@ -62,6 +62,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.6.91** | 23-09-2026 | Términos y condiciones 1.2: el cambio de ordenador con suscripción lo haces tú desde la app. Tu licencia explica qué consulta, y las notas de versión llevan tildes y eñes. |
 | **1.6.90** | 23-09-2026 | Corregido el aviso sobre el correo comercial no solicitado: la LSSI lo prohíbe también entre empresas. «Enviar a soporte» lleva tu correo para poder contestarte. |
 | **1.6.89** | 23-09-2026 | La suscripción se gestiona o se cancela desde la app, y se pasa a otro ordenador con un código por correo. Todas las métricas, en Resultados. |
 | **1.6.88** | 23-09-2026 | Los errores se explican en castellano claro y dicen qué hacer, Ajustes → Búsqueda sin tecnicismos, y la activación enseña el precio y los 7 días de prueba gratis. |
