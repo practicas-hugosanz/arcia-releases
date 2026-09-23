@@ -62,6 +62,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.6.94** | 23-09-2026 | Textos sin jerga en Prospección, OpenCode Zen retirado de los proveedores de IA (pasa a OpenRouter sin perder ajustes), la web de muestra explica cómo publicarla y el aviso automático a soporte viene apagado. |
 | **1.6.93** | 23-09-2026 | Términos y condiciones 1.3: los correos comerciales que mandes son responsabilidad tuya. El guion ya no se inventa un cliente de referencia, y Ajustes está más limpio. |
 | **1.6.92** | 23-09-2026 | Si falla el cobro, la pantalla de activación te deja arreglarlo en Stripe. Los números grandes llevan su punto (1.000), y los correos se presentan para el seguimiento. |
 | **1.6.91** | 23-09-2026 | Términos y condiciones 1.2: el cambio de ordenador con suscripción lo haces tú desde la app. Tu licencia explica qué consulta, y las notas de versión llevan tildes y eñes. |
