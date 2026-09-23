@@ -62,6 +62,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.6.88** | 23-09-2026 | Los errores se explican en castellano claro y dicen qué hacer, Ajustes → Búsqueda sin tecnicismos, y la activación enseña el precio y los 7 días de prueba gratis. |
 | **1.6.87** | 22-09-2026 | Si Google Maps deja de devolver negocios en una búsqueda que antes sí los daba, Arcia lo dice claramente y avisa a soporte con un aviso anónimo que se puede apagar. Términos y condiciones 1.1. |
 | **1.6.86** | 22-09-2026 | Mantenimiento: la app, mejor ordenada por dentro. No cambia nada de lo que ves. |
 | **1.6.85** | 21-09-2026 | Los términos y condiciones se aceptan antes de activar o pagar, y se pueden releer en Ajustes → Tu licencia. |
