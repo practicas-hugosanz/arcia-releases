@@ -62,6 +62,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.6.96** | 24-09-2026 | Ningún correo en cola sale a quien acabas de dar de baja o ha contestado, una respuesta nueva detiene también la secuencia de un recontacto, el CSV exportado se vuelve a importar limpio y los avisos de error sin huecos en medio. |
 | **1.6.95** | 24-09-2026 | Revisión de seguridad: las claves de servicios pasan al almacén de credenciales de Windows, el informe a soporte va sin datos de nadie y el CSV no ejecuta fórmulas al abrirlo en Excel. |
 | **1.6.94** | 23-09-2026 | Textos sin jerga en Prospección, OpenCode Zen retirado de los proveedores de IA (pasa a OpenRouter sin perder ajustes), la web de muestra explica cómo publicarla y el aviso automático a soporte viene apagado. |
 | **1.6.93** | 23-09-2026 | Términos y condiciones 1.3: los correos comerciales que mandes son responsabilidad tuya. El guion ya no se inventa un cliente de referencia, y Ajustes está más limpio. |
