@@ -4,6 +4,10 @@ Aquí se publican los instaladores de **Arcia**, la aplicación de escritorio pa
 prospección B2B local: encuentra negocios sin sitio web, lo verifica, y te pone
 a llamarlos con el guion delante.
 
+Qué hace, cuánto cuesta y cómo funciona: **[arcia.es](https://arcia.es)**. Y si vendes
+webs, la guía [cómo encontrar negocios sin página web](https://arcia.es/negocios-sin-pagina-web),
+con cifras de más de mil negocios revisados.
+
 Este repositorio contiene **solo los instaladores**. El código fuente no es
 público.
 
