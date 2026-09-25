@@ -63,10 +63,12 @@ correcciones que haces al usarla: cuando marcas que un negocio «sin web» sí l
 tenía (su categoría, su municipio y los dominios que se comprobaron), cuando
 rechazas un correo (la web de la que salió y el dominio del correo, no la
 dirección), y los portales y categorías de Google Maps que descubre al
-escanear. Va con un identificador al azar de la instalación, **sin teléfonos,
-correos, nombres, notas ni nada que diga quién eres**. A cambio, cada copia se
+escanear. Va con un identificador al azar de la instalación, que ves en Ajustes →
+Datos, **sin teléfonos, correos, nombres ni notas**. Es un seudónimo: mientras
+haya pocas copias podría relacionarse contigo. Se borra a los 12 meses, y con
+ese identificador puedes pedir que se borre antes. A cambio, cada copia se
 baja los portales y categorías que han confirmado varias copias distintas. Está
-en la cláusula 4 de los términos 1.4, viene encendido y se apaga en **Ajustes →
+en la cláusula 4 de los términos 1.5, viene encendido y se apaga en **Ajustes →
 Datos**.
 
 ## Historial de versiones
@@ -78,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.6.99** | 25-09-2026 | Las bajas ya no se pierden al vaciar la base ni al borrar una ficha, términos 1.5 publicados en arcia.es/terminos, el informe a soporte se ve antes de enviarlo, la IA se acepta modelo a modelo y el aprendizaje compartido se borra a los 12 meses. |
 | **1.6.98** | 25-09-2026 | El escaneo aprende de las correcciones de todas las copias (portales y categorías compartidos, se apaga en Ajustes → Datos; términos 1.4), «Llamo desde el móvil» con la tecla E para contar la duración marcando a mano y el horario de otro día sin apretujar. |
 | **1.6.97** | 25-09-2026 | Botón «Llamar» con Enlace Móvil de Windows en la pantalla de llamadas, la ficha y la Agenda; la duración de cada llamada cuenta desde que llamas hasta que marcas el resultado; y las empresas recién creadas empiezan en tu provincia. |
 | **1.6.96** | 24-09-2026 | Ningún correo en cola sale a quien acabas de dar de baja o ha contestado, una respuesta nueva detiene también la secuencia de un recontacto, el CSV exportado se vuelve a importar limpio y los avisos de error sin huecos en medio. |
