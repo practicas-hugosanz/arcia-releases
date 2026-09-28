@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.6.100** | 28-09-2026 | Menos negocios con web dados por «sin web» (prueba «restaurante» delante del nombre y descubre la web por el correo), un corte de conexión breve ya no tumba el escaneo, correos más fiables con nombres cortos y la barra de seleccionados sin cortarse con la ficha abierta. |
 | **1.6.99** | 25-09-2026 | Las bajas ya no se pierden al vaciar la base ni al borrar una ficha, términos 1.5 publicados en arcia.es/terminos, el informe a soporte se ve antes de enviarlo, la IA se acepta modelo a modelo y el aprendizaje compartido se borra a los 12 meses. |
 | **1.6.98** | 25-09-2026 | El escaneo aprende de las correcciones de todas las copias (portales y categorías compartidos, se apaga en Ajustes → Datos; términos 1.4), «Llamo desde el móvil» con la tecla E para contar la duración marcando a mano y el horario de otro día sin apretujar. |
 | **1.6.97** | 25-09-2026 | Botón «Llamar» con Enlace Móvil de Windows en la pantalla de llamadas, la ficha y la Agenda; la duración de cada llamada cuenta desde que llamas hasta que marcas el resultado; y las empresas recién creadas empiezan en tu provincia. |
