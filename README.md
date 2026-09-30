@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.7.2** | 30-09-2026 | El editor de presupuestos vuelve a abrirse a lo ancho (en la 1.7.1 salía encogido dentro de la ficha), y más ordenado. |
 | **1.7.1** | 30-09-2026 | La ficha del negocio ordenada: arriba la nota, el teléfono, el estado y la próxima acción, y debajo tres pestañas —Resumen, Venta y Detalles— en vez de dieciséis bloques seguidos. |
 | **1.7.0** | 30-09-2026 | Los negocios con la web mala (no carga, no se ve en el móvil, sin candado, a la venta, un Linktree o un PDF) en su propia lista, separada de los que no tienen web, en Leads y en Llamar; presupuestos en PDF desde la ficha, mandados desde tu correo; y el orden «Mejor oportunidad» en Leads. |
 
