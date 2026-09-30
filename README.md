@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.7.5** | 30-09-2026 | No solo webs: carta QR, reservas, citas y pedidos según el gremio, de lo que tú vendes. Lista nueva «Mejorable» (web buena que no deja reservar, pedir o coger cita), recordatorio a los 3 días de mandar un presupuesto, «Presupuestos» y «Qué se vende» en Resultados, y la propuesta con IA en lista corta. |
 | **1.7.4** | 30-09-2026 | «Afinarla con IA» ya no enseña la propuesta cortada a media frase: más margen para el modelo, comprueba que llega entera y la vuelve a pedir si no. |
 | **1.7.3** | 30-09-2026 | «Qué ofrecerle» a cada negocio en la ficha, según el fallo de su web o su gremio, que se convierte en presupuesto con tus tarifas y se puede afinar con IA; y la fila de su web más ordenada. |
 | **1.7.2** | 30-09-2026 | El editor de presupuestos vuelve a abrirse a lo ancho (en la 1.7.1 salía encogido dentro de la ficha), y más ordenado. |
