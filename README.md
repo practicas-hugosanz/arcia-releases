@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.7.9** | 02-10-2026 | Con Gmail o Google Workspace el correo se conecta solo con «Entrar con Google», sin clave; los pasos de la clave quedan para Outlook, Zoho y el correo del dominio. |
 | **1.7.8** | 01-10-2026 | «Entrar con Google» en Ajustes → Correo: Gmail se conecta eligiendo la cuenta en el navegador, sin contraseña de aplicación, y «Desconectar» le retira el permiso a Arcia en tu cuenta de Google. |
 | **1.7.7** | 01-10-2026 | Conectar el correo en tres pasos, un tutorial con cada pantalla en marcha y el embudo explicado, comprobación de «Tu perfil», Ajustes con menos texto y una revisión de webs que ya no da por «sin pedidos» a quien pide por Glovo o Uber Eats ni por «no adaptada al móvil» a quien sí lo está. |
 | **1.7.6** | 30-09-2026 | Las fichas de los negocios con web mala o mejorable enseñan sus fotos: al abrir una que no las tenía, Arcia las busca en su ficha de Google Maps. |
