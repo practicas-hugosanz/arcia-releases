@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.7.13** | 02-10-2026 | Al volver a Arcia sin haber terminado de entrar con Google o Microsoft, el botón deja de cargar y explica cómo seguir o volver a empezar. |
 | **1.7.12** | 02-10-2026 | Si se cierra sin querer la página de inicio de sesión de Google o Microsoft, volver a pulsar el botón abre otra al momento, sin esperar. |
 | **1.7.11** | 02-10-2026 | Botones «Entrar con Google» y «Entrar con Microsoft» rediseñados, y «¿Quién te lleva el correo?» solo con Zoho y el correo del hosting. |
 | **1.7.10** | 02-10-2026 | «Entrar con Microsoft» en Ajustes → Correo: Outlook, Hotmail, Live y Microsoft 365 se conectan eligiendo la cuenta en el navegador, sin contraseña de aplicación. |
