@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.7.19** | 03-10-2026 | Ajustes renovados: vista previa de las plantillas, copias de seguridad que se ven y se restauran, tu logo en los presupuestos y textos más claros en todas las secciones. |
 | **1.7.18** | 03-10-2026 | El correo de tu propio dominio se puede conectar aunque antes estuviera puesto Outlook, y «Otro» empieza con el servidor vacío. |
 | **1.7.17** | 03-10-2026 | Los buzones extra de Gmail y Outlook se conectan con «Entrar con Google» o «Entrar con Microsoft», y con Outlook ya no se ofrece la contraseña de aplicación, que Microsoft ya no acepta. |
 | **1.7.16** | 03-10-2026 | La pantalla de conectar el correo ya no repite, con Gmail u Outlook, lo que dice el botón de arriba. |
