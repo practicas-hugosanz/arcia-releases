@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.7.21** | 03-10-2026 | Los presupuestos llevan retención de IRPF si la aplicas, y puedes elegir desde qué número sigue tu serie. |
 | **1.7.20** | 03-10-2026 | Ajustes más claros: el aviso de Google en una línea, cómo sacar gratis la clave de IA, rehacer los guiones al guardar uno nuevo y aviso si borras la baja del correo. |
 | **1.7.19** | 03-10-2026 | Ajustes renovados: vista previa de las plantillas, copias de seguridad que se ven y se restauran, tu logo en los presupuestos y textos más claros en todas las secciones. |
 | **1.7.18** | 03-10-2026 | El correo de tu propio dominio se puede conectar aunque antes estuviera puesto Outlook, y «Otro» empieza con el servidor vacío. |
