@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.7.15** | 03-10-2026 | «Entrar con Microsoft» vuelve a enviar con las cuentas de Outlook y Hotmail nuevas y las de empresa: Microsoft les ha apagado el SMTP y Arcia ya no lo usa. Quien ya había conectado tiene que volver a pulsar el botón. |
 | **1.7.14** | 03-10-2026 | Entrar con Google o Microsoft aguanta cualquier orden de clics: todas las páginas que se abren valen, hay quince minutos para terminar y una página de más ya no da error. |
 | **1.7.13** | 02-10-2026 | Al volver a Arcia sin haber terminado de entrar con Google o Microsoft, el botón deja de cargar y explica cómo seguir o volver a empezar. |
 | **1.7.12** | 02-10-2026 | Si se cierra sin querer la página de inicio de sesión de Google o Microsoft, volver a pulsar el botón abre otra al momento, sin esperar. |
