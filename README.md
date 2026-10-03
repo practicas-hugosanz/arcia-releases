@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.8.2** | 03-10-2026 | El correo de primer contacto ya no les llega a quienes ya hablaron contigo (interesados, con cita…), y un solo botón «Enviar a N». |
 | **1.8.1** | 03-10-2026 | Ves el correo entero antes de enviar una tanda, «Interesado» pasa a naranja, los estados se llaman más claro y Llamar deja para el final los negocios cerrados. |
 | **1.8.0** | 03-10-2026 | Las pantallas de trabajo diario, renovadas: Correos enseña a quién escribes y en qué va cada uno, Llamar pone primero lo que se dice al teléfono, y los teléfonos se leen agrupados. |
 
