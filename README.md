@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.8.5** | 04-10-2026 | Cerrar una cita ya no tapa el botón de WhatsApp, «Enviar a N» cuenta solo a quien recibiría el correo, la agenda va en columnas y Resultados se lee más corto. |
 | **1.8.4** | 04-10-2026 | Con la ficha de un negocio abierta, la cabecera de Correos ya no se apila y los botones de filtros ya no se cortan. |
 | **1.8.3** | 04-10-2026 | La cita que cierras al llamar pasa a la agenda con su hora, Correos avisa si tu correo no está conectado y «Si algo falla» dice en cuánto te contestamos. |
 | **1.8.2** | 03-10-2026 | El correo de primer contacto ya no les llega a quienes ya hablaron contigo (interesados, con cita…), y un solo botón «Enviar a N». |
