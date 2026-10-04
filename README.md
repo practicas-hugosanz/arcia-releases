@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.8.9** | 04-10-2026 | Ya no toma por la web de un negocio su ficha en un directorio ni la de otro negocio que se llama igual en la misma ciudad. |
 | **1.8.8** | 04-10-2026 | Acierta más con los negocios sin web: encuentra webs de cadena y con la ciudad en el nombre, aparta franquicias y concesiones, y vuelve a revisar las webs mal atribuidas. |
 | **1.8.7** | 04-10-2026 | «Otro día» en la Agenda para mover un seguimiento, el teléfono como botón de llamar, y Correos dice por qué no deja enviar. |
 | **1.8.6** | 04-10-2026 | Ajustes más corto: cada opción se explica en una línea y lo demás va plegado; Búsqueda e IA caben de un vistazo. |
