@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.8.11** | 05-10-2026 | La ventana ya no parpadea al escanear o buscar correos, y la barra de Correos se ordena bien con la ficha de un negocio abierta. |
 | **1.8.10** | 05-10-2026 | Reconoce las franquicias aunque Google Maps abrevie la calle del local, y ya no las da como negocios sin web. |
 | **1.8.9** | 04-10-2026 | Ya no toma por la web de un negocio su ficha en un directorio ni la de otro negocio que se llama igual en la misma ciudad. |
 | **1.8.8** | 04-10-2026 | Acierta más con los negocios sin web: encuentra webs de cadena y con la ciudad en el nombre, aparta franquicias y concesiones, y vuelve a revisar las webs mal atribuidas. |
