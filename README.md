@@ -80,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.8.14** | 12-10-2026 | Si Arcia no puede leer tu buzón, la barra de Correos te dice desde cuándo y qué hacer, en vez de dejar las secuencias en pausa sin avisar. Y si «Entrar con Google» no deja conectar, se abren los pasos de la contraseña de aplicación. |
 | **1.8.13** | 12-10-2026 | Con «Entrar con Google», Gmail va por su API: las respuestas se leen también en redes que bloquean el correo. Y «Enviar a soporte» ya no da error ni se queda esperando cuando el informe ha llegado. |
 | **1.8.12** | 05-10-2026 | Ningún negocio se guarda ya con las fotos y las reseñas de otro: cada ficha de Maps se comprueba antes de guardarla, y las que estaban cruzadas se limpian al actualizar. |
 | **1.8.11** | 05-10-2026 | La ventana ya no parpadea al escanear o buscar correos, y la barra de Correos se ordena bien con la ficha de un negocio abierta. |
