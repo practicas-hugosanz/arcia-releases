@@ -67,7 +67,8 @@ escanear. Va con un identificador al azar de la instalación, que ves en Ajustes
 Datos, **sin teléfonos, correos, nombres ni notas**. Es un seudónimo: mientras
 haya pocas copias podría relacionarse contigo. Se borra a los 12 meses, y con
 ese identificador puedes pedir que se borre antes. A cambio, cada copia se
-baja los portales y categorías que han confirmado varias copias distintas. Está
+baja lo aprendido de todas —portales, categorías y webs que dan correos
+equivocados— y lo aplica sola en el siguiente escaneo. Está
 en la cláusula 4 de los términos 1.5, viene encendido y se apaga en **Ajustes →
 Datos**.
 
@@ -79,6 +80,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 ### Arcia 1.8
 
 | Versión | Fecha | Qué cambia |
+| **1.8.15** | 12-10-2026 | Si el buscador no contesta, el negocio queda pendiente en vez de «sin web», y Arcia vuelve a preguntar al final del escaneo. Lo que corregís todos los usuarios vuelve a cada copia como reglas, sin esperar a una versión nueva. |
 |---|---|---|
 | **1.8.14** | 12-10-2026 | Si Arcia no puede leer tu buzón, la barra de Correos te dice desde cuándo y qué hacer, en vez de dejar las secuencias en pausa sin avisar. Y si «Entrar con Google» no deja conectar, se abren los pasos de la contraseña de aplicación. |
 | **1.8.13** | 12-10-2026 | Con «Entrar con Google», Gmail va por su API: las respuestas se leen también en redes que bloquean el correo. Y «Enviar a soporte» ya no da error ni se queda esperando cuando el informe ha llegado. |
