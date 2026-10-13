@@ -81,6 +81,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.8.17** | 13-10-2026 | Buscar un tipo de negocio del que hay pocos en el pueblo ya no trae los de otras categorías: Arcia sabe qué categorías tiene Google Maps. |
 | **1.8.16** | 12-10-2026 | La web de una cadena ya no se toma por un portal: si el dominio lleva el nombre del negocio, se queda como su web. |
 | **1.8.15** | 12-10-2026 | Si el buscador no contesta, el negocio queda pendiente en vez de «sin web», y Arcia vuelve a preguntar al final del escaneo. Lo que corregís todos los usuarios vuelve a cada copia como reglas, sin esperar a una versión nueva. |
 | **1.8.14** | 12-10-2026 | Si Arcia no puede leer tu buzón, la barra de Correos te dice desde cuándo y qué hacer, en vez de dejar las secuencias en pausa sin avisar. Y si «Entrar con Google» no deja conectar, se abren los pasos de la contraseña de aplicación. |
