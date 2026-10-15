@@ -81,6 +81,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.9.1** | 15-10-2026 | Las fotos del local vuelven a salir en la ficha de los negocios guardados hace semanas, también en redes con filtros como la de un centro educativo; y en Leads, «Filtros» ya no se monta sobre la ficha y las casillas van en su propia fila. |
 | **1.9.0** | 15-10-2026 | Más que webs: Arcia te dice qué negocios tienen su ficha de Google sin reclamar, y en la pestaña Venta saca un diagnóstico en PDF para el dueño con lo que se ve de su negocio y lo que le propones. |
 
 ### Arcia 1.8
