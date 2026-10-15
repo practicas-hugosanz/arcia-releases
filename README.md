@@ -77,6 +77,12 @@ Datos**.
 De la más reciente a la más antigua. Cada versión tiene sus notas completas en
 **[Releases](../../releases)**.
 
+### Arcia 1.9
+
+| Versión | Fecha | Qué cambia |
+|---|---|---|
+| **1.9.0** | 15-10-2026 | Más que webs: Arcia te dice qué negocios tienen su ficha de Google sin reclamar, y en la pestaña Venta saca un diagnóstico en PDF para el dueño con lo que se ve de su negocio y lo que le propones. |
+
 ### Arcia 1.8
 
 | Versión | Fecha | Qué cambia |
