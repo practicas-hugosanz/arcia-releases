@@ -81,6 +81,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.9.5** | 20-10-2026 | Arcia trata a Google Maps con más calma: abre menos fichas a la vez y como mucho 150 por pasada, espera un tiempo variable entre peticiones y, si Maps bloquea tu conexión, deja de insistir durante tres horas. |
 | **1.9.4** | 19-10-2026 | Cuando Google Maps bloquea tu conexión por un tiempo, Arcia te dice lo que pasa y qué hacer, y si ocurre a mitad de una búsqueda se queda con los negocios ya traídos. |
 | **1.9.3** | 16-10-2026 | Un negocio que tiene puesta en Google la web de su pueblo, del ayuntamiento o del periódico local ya no cuenta como «con web»: vuelve a la lista de «sin web» con su guion. |
 | **1.9.2** | 15-10-2026 | Las fotos del local vuelven a salir en la ficha de cada negocio: Google cambió cómo las pinta en Maps y Arcia dejó de recogerlas. Los negocios que se quedaron sin fotos las recuperan al abrir su ficha. |
