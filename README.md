@@ -81,6 +81,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.9.8** | 23-10-2026 | Arcia se presenta como el navegador Edge de tu ordenador, con su versión al día, en lugar de un Chrome de hace más de un año. |
 | **1.9.7** | 21-10-2026 | Arreglado el «Acceso bloqueado (403)» al escanear: Google empezó a rechazar la forma en que Arcia se conectaba a Maps, y ahora se conecta como lo hace Windows. |
 | **1.9.6** | 20-10-2026 | Límite de 400 peticiones al día a Google Maps, con el gasto de hoy a la vista en Prospección, y más pausa entre ellas, para que Google no bloquee tu conexión. |
 | **1.9.5** | 20-10-2026 | Arcia trata a Google Maps con más calma: abre menos fichas a la vez y como mucho 150 por pasada, espera un tiempo variable entre peticiones y, si Maps bloquea tu conexión, deja de insistir durante tres horas. |
