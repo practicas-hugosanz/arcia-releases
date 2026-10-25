@@ -60,7 +60,8 @@ enciende en **Ajustes → Datos**.
 
 Desde la 1.6.98, para que el escaneo falle menos, Arcia comparte las
 correcciones que haces al usarla: cuando marcas que un negocio «sin web» sí la
-tenía (su categoría, su municipio y los dominios que se comprobaron), cuando
+tenía (su categoría, su municipio, los dominios que se comprobaron y, si
+pones cuál es su web, el dominio de esa web, sin la ruta), cuando
 rechazas un correo (la web de la que salió y el dominio del correo, no la
 dirección), y los portales y categorías de Google Maps que descubre al
 escanear. Va con un identificador al azar de la instalación, que ves en Ajustes →
@@ -81,6 +82,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.9.9** | 26-10-2026 | En la ficha, «¿Sí tiene web? Corrígelo» para un negocio que Arcia dio por «sin web» y sí la tenía; la corrección ayuda a que Arcia falle menos. Términos 1.6. |
 | **1.9.8** | 23-10-2026 | Arcia se presenta como el navegador Edge de tu ordenador, con su versión al día, en lugar de un Chrome de hace más de un año. |
 | **1.9.7** | 21-10-2026 | Arreglado el «Acceso bloqueado (403)» al escanear: Google empezó a rechazar la forma en que Arcia se conectaba a Maps, y ahora se conecta como lo hace Windows. |
 | **1.9.6** | 20-10-2026 | Límite de 400 peticiones al día a Google Maps, con el gasto de hoy a la vista en Prospección, y más pausa entre ellas, para que Google no bloquee tu conexión. |
