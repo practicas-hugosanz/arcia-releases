@@ -73,6 +73,12 @@ equivocados— y lo aplica sola en el siguiente escaneo. Está
 en la cláusula 4 de los términos 1.5, viene encendido y se apaga en **Ajustes →
 Datos**.
 
+Desde la 1.9.10, con una licencia de clave, Arcia pregunta al servidor de
+licencias al abrirse con internet si tu licencia ha cambiado —una renovación,
+o el paso a otro ordenador— para ponerla sola. Solo le manda el código de tu
+ordenador, como ya hacía la suscripción para renovarse cada mes. Sin internet
+sigue funcionando igual.
+
 ## Historial de versiones
 
 De la más reciente a la más antigua. Cada versión tiene sus notas completas en
@@ -82,6 +88,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.9.10** | 26-10-2026 | Si te renovamos o cambiamos la licencia, Arcia la pone sola al abrirse con internet: ya no hay que pegar ninguna clave. |
 | **1.9.9** | 26-10-2026 | En la ficha, «¿Sí tiene web? Corrígelo» para un negocio que Arcia dio por «sin web» y sí la tenía; la corrección ayuda a que Arcia falle menos. Términos 1.6. |
 | **1.9.8** | 23-10-2026 | Arcia se presenta como el navegador Edge de tu ordenador, con su versión al día, en lugar de un Chrome de hace más de un año. |
 | **1.9.7** | 21-10-2026 | Arreglado el «Acceso bloqueado (403)» al escanear: Google empezó a rechazar la forma en que Arcia se conectaba a Maps, y ahora se conecta como lo hace Windows. |
