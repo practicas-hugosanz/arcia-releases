@@ -84,6 +84,12 @@ sigue funcionando igual.
 De la más reciente a la más antigua. Cada versión tiene sus notas completas en
 **[Releases](../../releases)**.
 
+### Arcia 1.10
+
+| Versión | Fecha | Qué cambia |
+|---|---|---|
+| **1.10.0** | 26-10-2026 | Al revisar una web, Arcia apunta si el negocio paga anuncios en Google o Meta, qué agencia firma su web, si su blog está parado y con qué está hecha; lo ves en la ficha y puedes combinarlo en Filtros → «Su web». |
+
 ### Arcia 1.9
 
 | Versión | Fecha | Qué cambia |
