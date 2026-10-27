@@ -88,6 +88,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.11.0** | 27-10-2026 | Con tu cuenta de DataForSEO, la búsqueda sigue sola cuando Google Maps frena tu conexión o llegas al tope del día. Términos 1.7. |
 | **1.10.0** | 26-10-2026 | Al revisar una web, Arcia apunta si el negocio paga anuncios en Google o Meta, qué agencia firma su web, si su blog está parado y con qué está hecha; lo ves en la ficha y puedes combinarlo en Filtros → «Su web». |
 
 ### Arcia 1.9
