@@ -88,6 +88,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.11.1** | 28-10-2026 | Al pulsar «Enviar», Arcia dice si tu buzón está listo; la tanda lee antes los rebotes y no sale si rebotan demasiados, y los correos llevan el enlace «Cancelar suscripción». |
 | **1.11.0** | 27-10-2026 | Con tu cuenta de DataForSEO, la búsqueda sigue sola cuando Google Maps frena tu conexión o llegas al tope del día. Términos 1.7. |
 
 ### Arcia 1.10
