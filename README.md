@@ -84,6 +84,12 @@ sigue funcionando igual.
 De la más reciente a la más antigua. Cada versión tiene sus notas completas en
 **[Releases](../../releases)**.
 
+### Arcia 1.12
+
+| Versión | Fecha | Qué cambia |
+|---|---|---|
+| **1.12.0** | 29-10-2026 | Al revisar la web de un negocio, Arcia saca el correo que publica, su WhatsApp y quién lo lleva; el correo se guarda solo y el nombre del dueño te lo propone en la ficha. |
+
 ### Arcia 1.11
 
 | Versión | Fecha | Qué cambia |
