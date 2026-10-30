@@ -88,6 +88,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.12.2** | 30-10-2026 | Los negocios que ya tienen web reciben un primer correo escrito para ellos, con lo que les falla, en vez del de los que no tienen. |
 | **1.12.1** | 29-10-2026 | Un agente que, con Arcia abierta, revisa webs y te deja en Correos el primer correo de los negocios que elijas; no sale nada hasta que lo apruebas. |
 | **1.12.0** | 29-10-2026 | Al revisar la web de un negocio, Arcia saca el correo que publica, su WhatsApp y quién lo lleva; el correo se guarda solo y el nombre del dueño te lo propone en la ficha. |
 
