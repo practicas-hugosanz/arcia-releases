@@ -1,49 +1,74 @@
-# Arcia — publicaciones
+<p align="center">
+  <img src="assets/arcia.png" alt="" width="96" height="96">
+</p>
 
-Aquí se publican los instaladores de **Arcia**, la aplicación de escritorio para
-prospección B2B local: encuentra negocios sin sitio web, lo verifica, y te pone
-a llamarlos con el guion delante.
+<h1 align="center">Arcia</h1>
 
-Qué hace, cuánto cuesta y cómo funciona: **[arcia.es](https://arcia.es)**. Y si vendes
-webs, la guía [cómo encontrar negocios sin página web](https://arcia.es/negocios-sin-pagina-web),
+<p align="center">
+  La aplicación de escritorio para prospección B2B local:<br>
+  encuentra negocios sin sitio web, lo verifica y te pone a llamarlos con el guion delante.
+</p>
+
+<p align="center">
+  <a href="https://github.com/practicas-hugosanz/arcia-releases/releases/latest/download/Arcia_x64-setup.exe"><img src="https://img.shields.io/badge/Descargar_para_Windows-00c7fb?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwMCIgZD0iTTExIDN2MTAuMTdsLTMuNTktMy41OEw2IDExbDYgNiA2LTYtMS40MS0xLjQxTDEzIDEzLjE3VjNoLTJ6TTUgMTl2MmgxNHYtMkg1eiIvPjwvc3ZnPg==&logoColor=000000&labelColor=00c7fb" alt="Descargar para Windows"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/practicas-hugosanz/arcia-releases/releases/latest"><img src="https://img.shields.io/github/v/release/practicas-hugosanz/arcia-releases?label=versi%C3%B3n&color=00c7fb" alt="Última versión"></a>
+  <img src="https://img.shields.io/badge/Windows-64_bits-555555" alt="Windows de 64 bits">
+  <a href="https://arcia.es"><img src="https://img.shields.io/badge/web-arcia.es-555555" alt="arcia.es"></a>
+</p>
+
+<p align="center">
+  <a href="#qué-hace">Qué hace</a> ·
+  <a href="#descargar">Descargar</a> ·
+  <a href="#tus-datos">Tus datos</a> ·
+  <a href="#historial-de-versiones">Historial</a>
+</p>
+
+---
+
+## Qué hace
+
+- **Encuentra negocios** en Google Maps, por nicho y ciudad.
+- **Comprueba si tienen web** y, si la tienen, qué le falla.
+- **Te prepara la llamada:** el guion, y el dueño y el WhatsApp que publica su web.
+- **Escribe el primer correo** con tu plantilla o con IA, y no sale nada del agente hasta que lo apruebas.
+- **Lleva el seguimiento:** secuencias, agenda, presupuestos y resultados.
+
+Cuánto cuesta y cómo funciona: **[arcia.es](https://arcia.es)**. Y si vendes webs, la guía
+[cómo encontrar negocios sin página web](https://arcia.es/negocios-sin-pagina-web),
 con cifras de más de mil negocios revisados.
-
-Este repositorio contiene **solo los instaladores**. El código fuente no es
-público.
 
 ## Descargar
 
-La última versión está siempre en **[Releases](../../releases/latest)**.
+1. Baja **[la última versión](https://github.com/practicas-hugosanz/arcia-releases/releases/latest/download/Arcia_x64-setup.exe)**. También está en **[Releases](../../releases/latest)**, con sus notas.
+2. Ejecuta el instalador.
+3. Una vez instalada, la aplicación comprueba sola si hay versión nueva al abrirse y se ofrece a actualizarse. No hace falta volver aquí.
 
-Descarga el fichero `Arcia_X.Y.Z_x64-setup.exe` y ejecútalo.
+Este repositorio contiene **solo los instaladores**. El código fuente no es público.
 
-## Al instalar, Windows te va a avisar
+> [!NOTE]
+> **Al instalar, Windows te va a avisar.** Verás una pantalla que dice **«Windows protegió su PC»** y menciona un *editor desconocido*.
+>
+> No es un virus. Es lo que Windows muestra con cualquier programa que no lleva un certificado de firma, que es un trámite de pago anual contratado aparte.
+>
+> Para continuar: **«Más información» → «Ejecutar de todas formas»**. Solo pasa al instalar, no cada vez que abras la aplicación.
 
-Verás una pantalla que dice **«Windows protegió su PC»** y menciona un *editor
-desconocido*.
-
-No es un virus. Es lo que Windows muestra con cualquier programa que no lleva
-un certificado de firma, que es un trámite de pago anual contratado aparte.
-
-Para continuar: **«Más información» → «Ejecutar de todas formas»**. Solo pasa
-al instalar, no cada vez que abras la aplicación.
-
-## Verificar que el fichero es el auténtico
+<details>
+<summary><strong>Verificar que el fichero es el auténtico</strong></summary>
 
 Cada versión se publica con la huella SHA-256 de sus instaladores en las notas
 de la publicación. Para comprobar el fichero que te has descargado:
 
 ```powershell
-Get-FileHash .\Arcia_X.Y.Z_x64-setup.exe -Algorithm SHA256
+Get-FileHash .\Arcia_x64-setup.exe -Algorithm SHA256
 ```
 
 El resultado tiene que coincidir letra por letra con la huella publicada. Si no
 coincide, no lo instales.
 
-## Actualizaciones
-
-Una vez instalada, la aplicación comprueba sola si hay versión nueva al
-abrirse y se ofrece a actualizarse. No hace falta volver aquí.
+</details>
 
 ## Tus datos
 
@@ -51,14 +76,14 @@ Arcia funciona entera en tu ordenador. Su base de datos y sus copias de
 seguridad se guardan en local: tus leads, tus notas y tus claves no se envían a
 ningún servidor.
 
-Desde la 1.6.87 hay una excepción, contada en la cláusula 4 de los términos: si
+**Avisos de fallos de Google.** Desde la 1.6.87 hay una excepción, contada en la cláusula 4 de los términos: si
 Google Maps deja de devolver negocios de una forma que apunta a un fallo de
 Google, la app manda a soporte un aviso **anónimo** —la versión, el modo de
 búsqueda y el nicho, la ciudad y el número de resultados de tus últimos
 escaneos— como mucho una vez al día. Desde la 1.6.94 viene apagado y se
 enciende en **Ajustes → Datos**.
 
-Desde la 1.6.98, para que el escaneo falle menos, Arcia comparte las
+**Aprendizaje compartido.** Desde la 1.6.98, para que el escaneo falle menos, Arcia comparte las
 correcciones que haces al usarla: cuando marcas que un negocio «sin web» sí la
 tenía (su categoría, su municipio, los dominios que se comprobaron y, si
 pones cuál es su web, el dominio de esa web, sin la ruta), cuando
@@ -73,7 +98,7 @@ equivocados— y lo aplica sola en el siguiente escaneo. Está
 en la cláusula 4 de los términos 1.5, viene encendido y se apaga en **Ajustes →
 Datos**.
 
-Desde la 1.9.10, con una licencia de clave, Arcia pregunta al servidor de
+**Licencia.** Desde la 1.9.10, con una licencia de clave, Arcia pregunta al servidor de
 licencias al abrirse con internet si tu licencia ha cambiado —una renovación,
 o el paso a otro ordenador— para ponerla sola. Solo le manda el código de tu
 ordenador, como ya hacía la suscripción para renovarse cada mes. Sin internet
@@ -88,13 +113,14 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
-| **1.12.3** | 30-10-2026 | Los correos que escribe la IA ya no salen cortados a media frase; si alguno llega incompleto, se usa el de tu plantilla. |
 | **1.12.4** | 03-11-2026 | Un buzón recibe un solo correo, aunque una cadena lo comparta entre locales, y «Enviar a N» cuenta solo los que salen. Cada sede usa su correo, los nombres de los dueños se leen mejor, el orden por oportunidad mira lo que se sabe de su web, Llamar enseña el dueño y el WhatsApp de su web, y la bandeja dice quién escribió cada correo. |
+| **1.12.3** | 30-10-2026 | Los correos que escribe la IA ya no salen cortados a media frase; si alguno llega incompleto, se usa el de tu plantilla. |
 | **1.12.2** | 30-10-2026 | Los negocios que ya tienen web reciben un primer correo escrito para ellos, con lo que les falla, en vez del de los que no tienen. |
 | **1.12.1** | 29-10-2026 | Un agente que, con Arcia abierta, revisa webs y te deja en Correos el primer correo de los negocios que elijas; no sale nada hasta que lo apruebas. |
 | **1.12.0** | 29-10-2026 | Al revisar la web de un negocio, Arcia saca el correo que publica, su WhatsApp y quién lo lleva; el correo se guarda solo y el nombre del dueño te lo propone en la ficha. |
 
-### Arcia 1.11
+<details>
+<summary><strong>Arcia 1.11</strong> · 3 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -102,13 +128,19 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 | **1.11.1** | 28-10-2026 | Al pulsar «Enviar», Arcia dice si tu buzón está listo; la tanda lee antes los rebotes y no sale si rebotan demasiados, y los correos llevan el enlace «Cancelar suscripción». |
 | **1.11.0** | 27-10-2026 | Con tu cuenta de DataForSEO, la búsqueda sigue sola cuando Google Maps frena tu conexión o llegas al tope del día. Términos 1.7. |
 
-### Arcia 1.10
+</details>
+
+<details>
+<summary><strong>Arcia 1.10</strong> · 1 versión</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
 | **1.10.0** | 26-10-2026 | Al revisar una web, Arcia apunta si el negocio paga anuncios en Google o Meta, qué agencia firma su web, si su blog está parado y con qué está hecha; lo ves en la ficha y puedes combinarlo en Filtros → «Su web». |
 
-### Arcia 1.9
+</details>
+
+<details>
+<summary><strong>Arcia 1.9</strong> · 11 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -124,7 +156,10 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 | **1.9.1** | 15-10-2026 | Las fotos del local vuelven a salir en la ficha de los negocios guardados hace semanas, también en redes con filtros como la de un centro educativo; y en Leads, «Filtros» ya no se monta sobre la ficha y las casillas van en su propia fila. |
 | **1.9.0** | 15-10-2026 | Más que webs: Arcia te dice qué negocios tienen su ficha de Google sin reclamar, y en la pestaña Venta saca un diagnóstico en PDF para el dueño con lo que se ve de su negocio y lo que le propones. |
 
-### Arcia 1.8
+</details>
+
+<details>
+<summary><strong>Arcia 1.8</strong> · 18 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -147,7 +182,10 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 | **1.8.1** | 03-10-2026 | Ves el correo entero antes de enviar una tanda, «Interesado» pasa a naranja, los estados se llaman más claro y Llamar deja para el final los negocios cerrados. |
 | **1.8.0** | 03-10-2026 | Las pantallas de trabajo diario, renovadas: Correos enseña a quién escribes y en qué va cada uno, Llamar pone primero lo que se dice al teléfono, y los teléfonos se leen agrupados. |
 
-### Arcia 1.7
+</details>
+
+<details>
+<summary><strong>Arcia 1.7</strong> · 22 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -174,7 +212,10 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 | **1.7.1** | 30-09-2026 | La ficha del negocio ordenada: arriba la nota, el teléfono, el estado y la próxima acción, y debajo tres pestañas —Resumen, Venta y Detalles— en vez de dieciséis bloques seguidos. |
 | **1.7.0** | 30-09-2026 | Los negocios con la web mala (no carga, no se ve en el móvil, sin candado, a la venta, un Linktree o un PDF) en su propia lista, separada de los que no tienen web, en Leads y en Llamar; presupuestos en PDF desde la ficha, mandados desde tu correo; y el orden «Mejor oportunidad» en Leads. |
 
-### Arcia 1.6
+</details>
+
+<details>
+<summary><strong>Arcia 1.6</strong> · 99 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -280,7 +321,10 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 Las versiones 1.6.20 y 1.6.21 no llegaron a publicarse.
 
-### Arcia 1.5
+</details>
+
+<details>
+<summary><strong>Arcia 1.5</strong> · 11 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -296,7 +340,10 @@ Las versiones 1.6.20 y 1.6.21 no llegaron a publicarse.
 | **1.5.1** | 28-08-2026 | La extensión se instala en dos pasos, y las fotos de los negocios ya no dependen de la suerte. |
 | **1.5.0** | 28-08-2026 | Búsqueda de correos cuatro veces más rápida, fuera los negocios fantasma y la ficha del lead más despejada. |
 
-### Arcia 1.4
+</details>
+
+<details>
+<summary><strong>Arcia 1.4</strong> · 5 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -306,7 +353,10 @@ Las versiones 1.6.20 y 1.6.21 no llegaron a publicarse.
 | **1.4.1** | 26-08-2026 | Dos arreglos de la lista al abrir la ficha de un negocio. |
 | **1.4.0** | 25-08-2026 | El horario debajo del teléfono, en amarillo si está cerrado; búsqueda de correos más rápida; buscador de Google y extensión del navegador. |
 
-### Arcia 1.0 – 1.3
+</details>
+
+<details>
+<summary><strong>Arcia 1.0 – 1.3</strong> · 7 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -317,3 +367,5 @@ Las versiones 1.6.20 y 1.6.21 no llegaron a publicarse.
 | **1.0.2** | 12-08-2026 | Correos en el ayuntamiento y la asociación de comerciantes, 197 nichos con sinónimos y borrar todos los leads de una búsqueda. |
 | **1.0.1** | 10-08-2026 | Licencias atadas a tu ordenador y actualizaciones automáticas. |
 | **1.0.0** | 08-08-2026 | Primera versión a la venta: escaneo de Google Maps, verificación de si cada negocio tiene web, guion de llamada, correos, y registro e informe de diagnóstico. Ya no está en esta página, y no se actualiza sola: desde ella hay que instalar una versión nueva a mano. |
+
+</details>
