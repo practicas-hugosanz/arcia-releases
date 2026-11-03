@@ -89,6 +89,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 | Versión | Fecha | Qué cambia |
 |---|---|---|
 | **1.12.3** | 30-10-2026 | Los correos que escribe la IA ya no salen cortados a media frase; si alguno llega incompleto, se usa el de tu plantilla. |
+| **1.12.4** | 03-11-2026 | Un buzón recibe un solo correo, aunque una cadena lo comparta entre locales, y «Enviar a N» cuenta solo los que salen. Cada sede usa su correo, los nombres de los dueños se leen mejor, el orden por oportunidad mira lo que se sabe de su web, Llamar enseña el dueño y el WhatsApp de su web, y la bandeja dice quién escribió cada correo. |
 | **1.12.2** | 30-10-2026 | Los negocios que ya tienen web reciben un primer correo escrito para ellos, con lo que les falla, en vez del de los que no tienen. |
 | **1.12.1** | 29-10-2026 | Un agente que, con Arcia abierta, revisa webs y te deja en Correos el primer correo de los negocios que elijas; no sale nada hasta que lo apruebas. |
 | **1.12.0** | 29-10-2026 | Al revisar la web de un negocio, Arcia saca el correo que publica, su WhatsApp y quién lo lleva; el correo se guarda solo y el nombre del dueño te lo propone en la ficha. |
