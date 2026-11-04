@@ -115,6 +115,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.13.1** | 04‑11‑2026 | Pantallas más despejadas y Prospección más simple, con los escaneos en un panel lateral. Las muestras se retiran solas si borras el negocio o pide la baja, y varios arreglos de la 1.13. Términos 1.8. |
 | **1.13.0** | 04‑11‑2026 | Pantalla Hoy con lo que toca y tu objetivo del día. La web de muestra se publica con un enlace en tu cuenta de Cloudflare, con hasta 12 fotos. Arcia sigue trabajando con la ventana cerrada y puede arrancar con Windows. Y prueba dos asuntos para ver cuál consigue más respuestas. |
 
 <details>
