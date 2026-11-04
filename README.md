@@ -115,6 +115,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.13.5** | 04‑11‑2026 | Correos más despejado: lo secundario pasa a un panel, «Pendiente», y el estado y el orden, a «Filtros». |
 | **1.13.4** | 04‑11‑2026 | La bandeja del agente ya no tapa la lista de Correos: se revisa en un panel a un lado. La ficha dice el siguiente paso con cada negocio, y los botones del guion llevan su nombre. |
 | **1.13.3** | 04‑11‑2026 | Hoy más completo: tus últimos 7 días, por qué negocios empezar con su ficha a un clic, cifras de 30 días y qué está en marcha. Selectores de número a juego con la app. |
 | **1.13.2** | 04‑11‑2026 | Mejor aprovechada la pantalla completa: Hoy a dos columnas, con los próximos seguimientos y las últimas respuestas, y Prospección con los escaneos fijos a un lado. |
