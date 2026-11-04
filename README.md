@@ -104,12 +104,21 @@ o el paso a otro ordenador— para ponerla sola. Solo le manda el código de tu
 ordenador, como ya hacía la suscripción para renovarse cada mes. Sin internet
 sigue funcionando igual.
 
+**Webs de muestra.** Desde la 1.13, si conectas tu cuenta de Cloudflare y publicas la web de muestra de un negocio, esa web —con su nombre, sus datos y sus fotos— se sube a tu cuenta. Solo cuando pulsas «Publicar», nunca sola. No pasa por ningún servidor de Arcia, y se retira sola a los 30 días.
+
 ## Historial de versiones
 
 De la más reciente a la más antigua. Cada versión tiene sus notas completas en
 **[Releases](../../releases)**.
 
-### Arcia 1.12
+### Arcia 1.13
+
+| Versión | Fecha | Qué cambia |
+|---|---|---|
+| **1.13.0** | 04‑11‑2026 | Pantalla Hoy con lo que toca y tu objetivo del día. La web de muestra se publica con un enlace en tu cuenta de Cloudflare, con hasta 12 fotos. Arcia sigue trabajando con la ventana cerrada y puede arrancar con Windows. Y prueba dos asuntos para ver cuál consigue más respuestas. |
+
+<details>
+<summary><strong>Arcia 1.12</strong> · 5 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -118,6 +127,8 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 | **1.12.2** | 30‑10‑2026 | Los negocios que ya tienen web reciben un primer correo escrito para ellos, con lo que les falla, en vez del de los que no tienen. |
 | **1.12.1** | 29‑10‑2026 | Un agente que, con Arcia abierta, revisa webs y te deja en Correos el primer correo de los negocios que elijas; no sale nada hasta que lo apruebas. |
 | **1.12.0** | 29‑10‑2026 | Al revisar la web de un negocio, Arcia saca el correo que publica, su WhatsApp y quién lo lleva; el correo se guarda solo y el nombre del dueño te lo propone en la ficha. |
+
+</details>
 
 <details>
 <summary><strong>Arcia 1.11</strong> · 3 versiones</summary>
