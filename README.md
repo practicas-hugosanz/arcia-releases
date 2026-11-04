@@ -115,6 +115,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.13.6** | 04‑11‑2026 | El Corte Inglés, Adif, Renfe, Aena, Hipercor y Oakberry dejan de salir como «Sin web». En Leads, «Sin web» pierde la columna que repetía lo mismo y las otras dos listas dicen «Qué falla». |
 | **1.13.5** | 04‑11‑2026 | Correos más despejado: lo secundario pasa a un panel, «Pendiente», y el estado y el orden, a «Filtros». |
 | **1.13.4** | 04‑11‑2026 | La bandeja del agente ya no tapa la lista de Correos: se revisa en un panel a un lado. La ficha dice el siguiente paso con cada negocio, y los botones del guion llevan su nombre. |
 | **1.13.3** | 04‑11‑2026 | Hoy más completo: tus últimos 7 días, por qué negocios empezar con su ficha a un clic, cifras de 30 días y qué está en marcha. Selectores de número a juego con la app. |
