@@ -108,230 +108,1295 @@ sigue funcionando igual.
 
 ## Historial de versiones
 
-De la más reciente a la más antigua. Cada versión tiene sus notas completas en
+De la más reciente a la más antigua, separado en lo añadido, lo mejorado y lo arreglado. Cada versión tiene sus notas completas en
 **[Releases](../../releases)**.
 
 ### Arcia 1.13
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.13.3** | 04‑11‑2026 | Hoy más completo: tus últimos 7 días, por qué negocios empezar con su ficha a un clic, cifras de 30 días y qué está en marcha. Selectores de número a juego con la app. |
-| **1.13.2** | 04‑11‑2026 | Mejor aprovechada la pantalla completa: Hoy a dos columnas, con los próximos seguimientos y las últimas respuestas, y Prospección con los escaneos fijos a un lado. |
-| **1.13.1** | 04‑11‑2026 | Pantallas más despejadas y Prospección más simple, con los escaneos en un panel lateral. Las muestras se retiran solas si borras el negocio o pide la baja, y varios arreglos de la 1.13. Términos 1.8. |
-| **1.13.0** | 04‑11‑2026 | Pantalla Hoy con lo que toca y tu objetivo del día. La web de muestra se publica con un enlace en tu cuenta de Cloudflare, con hasta 12 fotos. Arcia sigue trabajando con la ventana cerrada y puede arrancar con Windows. Y prueba dos asuntos para ver cuál consigue más respuestas. |
+#### 1.13.3 · 04‑11‑2026
+
+**AÑADIDO:**
+
+- Hoy enseña tus últimos 7 días, por qué negocios empezar con su ficha a un clic, las cifras de 30 días y qué está en marcha.
+
+**MEJORADO:**
+
+- Selectores de número a juego con la app.
+
+**ARREGLADO:**
+
+- En «Últimas respuestas», cada negocio sale una sola vez.
+- El contenido ya no se mueve al aparecer la barra de desplazamiento.
+
+#### 1.13.2 · 04‑11‑2026
+
+**MEJORADO:**
+
+- Hoy aprovecha la pantalla completa: dos columnas, con los próximos seguimientos y las últimas respuestas.
+- Prospección deja los escaneos fijos a un lado en ventana ancha.
+- Correos, Agenda y Resultados reparten mejor sus cifras.
+
+#### 1.13.1 · 04‑11‑2026
+
+**MEJORADO:**
+
+- Pantallas más despejadas, sin título ni frase arriba.
+- Prospección más simple, con los escaneos en un panel lateral.
+- Las muestras se retiran solas si borras el negocio o pide la baja.
+- Términos 1.8.
+
+**ARREGLADO:**
+
+- Varios arreglos de la 1.13.
+
+#### 1.13.0 · 04‑11‑2026
+
+**AÑADIDO:**
+
+- Pantalla Hoy con lo que toca y tu objetivo del día.
+- La web de muestra se publica con un enlace en tu cuenta de Cloudflare.
+- Arcia sigue trabajando con la ventana cerrada y puede arrancar con Windows.
+- Prueba dos asuntos para ver cuál consigue más respuestas.
+
+**MEJORADO:**
+
+- La web de muestra lleva hasta 12 fotos.
 
 <details>
 <summary><strong>Arcia 1.12</strong> · 5 versiones</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.12.4** | 03‑11‑2026 | Un buzón recibe un solo correo, aunque una cadena lo comparta entre locales, y «Enviar a N» cuenta solo los que salen. Cada sede usa su correo, los nombres de los dueños se leen mejor, el orden por oportunidad mira lo que se sabe de su web, Llamar enseña el dueño y el WhatsApp de su web, y la bandeja dice quién escribió cada correo. |
-| **1.12.3** | 30‑10‑2026 | Los correos que escribe la IA ya no salen cortados a media frase; si alguno llega incompleto, se usa el de tu plantilla. |
-| **1.12.2** | 30‑10‑2026 | Los negocios que ya tienen web reciben un primer correo escrito para ellos, con lo que les falla, en vez del de los que no tienen. |
-| **1.12.1** | 29‑10‑2026 | Un agente que, con Arcia abierta, revisa webs y te deja en Correos el primer correo de los negocios que elijas; no sale nada hasta que lo apruebas. |
-| **1.12.0** | 29‑10‑2026 | Al revisar la web de un negocio, Arcia saca el correo que publica, su WhatsApp y quién lo lleva; el correo se guarda solo y el nombre del dueño te lo propone en la ficha. |
+#### 1.12.4 · 03‑11‑2026
+
+**MEJORADO:**
+
+- Un buzón recibe un solo correo, aunque una cadena lo comparta entre locales, y «Enviar a N» cuenta solo los que salen.
+- Cada sede usa su correo.
+- Los nombres de los dueños se leen mejor.
+- El orden por oportunidad mira lo que se sabe de su web.
+- Llamar enseña el dueño y el WhatsApp de su web.
+- La bandeja dice quién escribió cada correo.
+
+#### 1.12.3 · 30‑10‑2026
+
+**ARREGLADO:**
+
+- Los correos que escribe la IA ya no salen cortados a media frase; si alguno llega incompleto, se usa el de tu plantilla.
+
+#### 1.12.2 · 30‑10‑2026
+
+**MEJORADO:**
+
+- Los negocios que ya tienen web reciben un primer correo escrito para ellos, con lo que les falla, en vez del de los que no tienen.
+
+#### 1.12.1 · 29‑10‑2026
+
+**AÑADIDO:**
+
+- Un agente que, con Arcia abierta, revisa webs y te deja en Correos el primer correo de los negocios que elijas; no sale nada hasta que lo apruebas.
+
+#### 1.12.0 · 29‑10‑2026
+
+**AÑADIDO:**
+
+- Al revisar la web de un negocio, Arcia saca el correo que publica, su WhatsApp y quién lo lleva; el correo se guarda solo y el nombre del dueño te lo propone en la ficha.
 
 </details>
 
 <details>
 <summary><strong>Arcia 1.11</strong> · 3 versiones</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.11.2** | 29‑10‑2026 | En Ajustes → Venta, «Rellenar desde mi web» lee la web de tu negocio y te propone tu marca, lo que te diferencia, tu precio y un enlace de ejemplo; tú eliges qué usar. |
-| **1.11.1** | 28‑10‑2026 | Al pulsar «Enviar», Arcia dice si tu buzón está listo; la tanda lee antes los rebotes y no sale si rebotan demasiados, y los correos llevan el enlace «Cancelar suscripción». |
-| **1.11.0** | 27‑10‑2026 | Con tu cuenta de DataForSEO, la búsqueda sigue sola cuando Google Maps frena tu conexión o llegas al tope del día. Términos 1.7. |
+#### 1.11.2 · 29‑10‑2026
+
+**AÑADIDO:**
+
+- En Ajustes → Venta, «Rellenar desde mi web» lee la web de tu negocio y te propone tu marca, lo que te diferencia, tu precio y un enlace de ejemplo; tú eliges qué usar.
+
+#### 1.11.1 · 28‑10‑2026
+
+**AÑADIDO:**
+
+- Al pulsar «Enviar», Arcia dice si tu buzón está listo.
+- Los correos llevan el enlace «Cancelar suscripción».
+
+**MEJORADO:**
+
+- La tanda lee antes los rebotes y no sale si rebotan demasiados.
+
+#### 1.11.0 · 27‑10‑2026
+
+**AÑADIDO:**
+
+- Con tu cuenta de DataForSEO, la búsqueda sigue sola cuando Google Maps frena tu conexión o llegas al tope del día.
+
+**MEJORADO:**
+
+- Términos 1.7.
 
 </details>
 
 <details>
 <summary><strong>Arcia 1.10</strong> · 1 versión</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.10.0** | 26‑10‑2026 | Al revisar una web, Arcia apunta si el negocio paga anuncios en Google o Meta, qué agencia firma su web, si su blog está parado y con qué está hecha; lo ves en la ficha y puedes combinarlo en Filtros → «Su web». |
+#### 1.10.0 · 26‑10‑2026
+
+**AÑADIDO:**
+
+- Al revisar una web, Arcia apunta si el negocio paga anuncios en Google o Meta, qué agencia firma su web, si su blog está parado y con qué está hecha.
+- Lo ves en la ficha y puedes combinarlo en Filtros → «Su web».
 
 </details>
 
 <details>
 <summary><strong>Arcia 1.9</strong> · 11 versiones</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.9.10** | 26‑10‑2026 | Si te renovamos o cambiamos la licencia, Arcia la pone sola al abrirse con internet: ya no hay que pegar ninguna clave. |
-| **1.9.9** | 26‑10‑2026 | En la ficha, «¿Sí tiene web? Corrígelo» para un negocio que Arcia dio por «sin web» y sí la tenía; la corrección ayuda a que Arcia falle menos. Términos 1.6. |
-| **1.9.8** | 23‑10‑2026 | Arcia se presenta como el navegador Edge de tu ordenador, con su versión al día, en lugar de un Chrome de hace más de un año. |
-| **1.9.7** | 21‑10‑2026 | Arreglado el «Acceso bloqueado (403)» al escanear: Google empezó a rechazar la forma en que Arcia se conectaba a Maps, y ahora se conecta como lo hace Windows. |
-| **1.9.6** | 20‑10‑2026 | Límite de 400 peticiones al día a Google Maps, con el gasto de hoy a la vista en Prospección, y más pausa entre ellas, para que Google no bloquee tu conexión. |
-| **1.9.5** | 20‑10‑2026 | Arcia trata a Google Maps con más calma: abre menos fichas a la vez y como mucho 150 por pasada, espera un tiempo variable entre peticiones y, si Maps bloquea tu conexión, deja de insistir durante tres horas. |
-| **1.9.4** | 19‑10‑2026 | Cuando Google Maps bloquea tu conexión por un tiempo, Arcia te dice lo que pasa y qué hacer, y si ocurre a mitad de una búsqueda se queda con los negocios ya traídos. |
-| **1.9.3** | 16‑10‑2026 | Un negocio que tiene puesta en Google la web de su pueblo, del ayuntamiento o del periódico local ya no cuenta como «con web»: vuelve a la lista de «sin web» con su guion. |
-| **1.9.2** | 15‑10‑2026 | Las fotos del local vuelven a salir en la ficha de cada negocio: Google cambió cómo las pinta en Maps y Arcia dejó de recogerlas. Los negocios que se quedaron sin fotos las recuperan al abrir su ficha. |
-| **1.9.1** | 15‑10‑2026 | Las fotos del local vuelven a salir en la ficha de los negocios guardados hace semanas, también en redes con filtros como la de un centro educativo; y en Leads, «Filtros» ya no se monta sobre la ficha y las casillas van en su propia fila. |
-| **1.9.0** | 15‑10‑2026 | Más que webs: Arcia te dice qué negocios tienen su ficha de Google sin reclamar, y en la pestaña Venta saca un diagnóstico en PDF para el dueño con lo que se ve de su negocio y lo que le propones. |
+#### 1.9.10 · 26‑10‑2026
+
+**MEJORADO:**
+
+- Si te renovamos o cambiamos la licencia, Arcia la pone sola al abrirse con internet: ya no hay que pegar ninguna clave.
+
+#### 1.9.9 · 26‑10‑2026
+
+**AÑADIDO:**
+
+- En la ficha, «¿Sí tiene web? Corrígelo» para un negocio que Arcia dio por «sin web» y sí la tenía; la corrección ayuda a que Arcia falle menos.
+
+**MEJORADO:**
+
+- Términos 1.6.
+
+#### 1.9.8 · 23‑10‑2026
+
+**MEJORADO:**
+
+- Arcia se presenta como el navegador Edge de tu ordenador, con su versión al día, en lugar de un Chrome de hace más de un año.
+
+#### 1.9.7 · 21‑10‑2026
+
+**ARREGLADO:**
+
+- Arreglado el «Acceso bloqueado (403)» al escanear: Google empezó a rechazar la forma en que Arcia se conectaba a Maps, y ahora se conecta como lo hace Windows.
+
+#### 1.9.6 · 20‑10‑2026
+
+**AÑADIDO:**
+
+- Límite de 400 peticiones al día a Google Maps, con el gasto de hoy a la vista en Prospección.
+
+**MEJORADO:**
+
+- Más pausa entre peticiones, para que Google no bloquee tu conexión.
+
+#### 1.9.5 · 20‑10‑2026
+
+**MEJORADO:**
+
+- Arcia trata a Google Maps con más calma: abre menos fichas a la vez y como mucho 150 por pasada, y espera un tiempo variable entre peticiones.
+- Si Maps bloquea tu conexión, deja de insistir durante tres horas.
+
+#### 1.9.4 · 19‑10‑2026
+
+**MEJORADO:**
+
+- Cuando Google Maps bloquea tu conexión por un tiempo, Arcia te dice lo que pasa y qué hacer.
+- Si ocurre a mitad de una búsqueda, se queda con los negocios ya traídos.
+
+#### 1.9.3 · 16‑10‑2026
+
+**ARREGLADO:**
+
+- Un negocio que tiene puesta en Google la web de su pueblo, del ayuntamiento o del periódico local ya no cuenta como «con web»: vuelve a la lista de «sin web» con su guion.
+
+#### 1.9.2 · 15‑10‑2026
+
+**ARREGLADO:**
+
+- Las fotos del local vuelven a salir en la ficha de cada negocio: Google cambió cómo las pinta en Maps y Arcia dejó de recogerlas. Los negocios que se quedaron sin fotos las recuperan al abrir su ficha.
+
+#### 1.9.1 · 15‑10‑2026
+
+**ARREGLADO:**
+
+- Las fotos del local vuelven a salir en la ficha de los negocios guardados hace semanas, también en redes con filtros como la de un centro educativo.
+- En Leads, «Filtros» ya no se monta sobre la ficha y las casillas van en su propia fila.
+
+#### 1.9.0 · 15‑10‑2026
+
+**AÑADIDO:**
+
+- Arcia te dice qué negocios tienen su ficha de Google sin reclamar.
+- En la pestaña Venta, un diagnóstico en PDF para el dueño con lo que se ve de su negocio y lo que le propones.
 
 </details>
 
 <details>
 <summary><strong>Arcia 1.8</strong> · 18 versiones</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.8.17** | 13‑10‑2026 | Buscar un tipo de negocio del que hay pocos en el pueblo ya no trae los de otras categorías: Arcia sabe qué categorías tiene Google Maps. |
-| **1.8.16** | 12‑10‑2026 | La web de una cadena ya no se toma por un portal: si el dominio lleva el nombre del negocio, se queda como su web. |
-| **1.8.15** | 12‑10‑2026 | Si el buscador no contesta, el negocio queda pendiente en vez de «sin web», y Arcia vuelve a preguntar al final del escaneo. Lo que corregís todos los usuarios vuelve a cada copia como reglas, sin esperar a una versión nueva. |
-| **1.8.14** | 12‑10‑2026 | Si Arcia no puede leer tu buzón, la barra de Correos te dice desde cuándo y qué hacer, en vez de dejar las secuencias en pausa sin avisar. Y si «Entrar con Google» no deja conectar, se abren los pasos de la contraseña de aplicación. |
-| **1.8.13** | 12‑10‑2026 | Con «Entrar con Google», Gmail va por su API: las respuestas se leen también en redes que bloquean el correo. Y «Enviar a soporte» ya no da error ni se queda esperando cuando el informe ha llegado. |
-| **1.8.12** | 05‑10‑2026 | Ningún negocio se guarda ya con las fotos y las reseñas de otro: cada ficha de Maps se comprueba antes de guardarla, y las que estaban cruzadas se limpian al actualizar. |
-| **1.8.11** | 05‑10‑2026 | La ventana ya no parpadea al escanear o buscar correos, y la barra de Correos se ordena bien con la ficha de un negocio abierta. |
-| **1.8.10** | 05‑10‑2026 | Reconoce las franquicias aunque Google Maps abrevie la calle del local, y ya no las da como negocios sin web. |
-| **1.8.9** | 04‑10‑2026 | Ya no toma por la web de un negocio su ficha en un directorio ni la de otro negocio que se llama igual en la misma ciudad. |
-| **1.8.8** | 04‑10‑2026 | Acierta más con los negocios sin web: encuentra webs de cadena y con la ciudad en el nombre, aparta franquicias y concesiones, y vuelve a revisar las webs mal atribuidas. |
-| **1.8.7** | 04‑10‑2026 | «Otro día» en la Agenda para mover un seguimiento, el teléfono como botón de llamar, y Correos dice por qué no deja enviar. |
-| **1.8.6** | 04‑10‑2026 | Ajustes más corto: cada opción se explica en una línea y lo demás va plegado; Búsqueda e IA caben de un vistazo. |
-| **1.8.5** | 04‑10‑2026 | Cerrar una cita ya no tapa el botón de WhatsApp, «Enviar a N» cuenta solo a quien recibiría el correo, la agenda va en columnas y Resultados se lee más corto. |
-| **1.8.4** | 04‑10‑2026 | Con la ficha de un negocio abierta, la cabecera de Correos ya no se apila y los botones de filtros ya no se cortan. |
-| **1.8.3** | 04‑10‑2026 | La cita que cierras al llamar pasa a la agenda con su hora, Correos avisa si tu correo no está conectado y «Si algo falla» dice en cuánto te contestamos. |
-| **1.8.2** | 03‑10‑2026 | El correo de primer contacto ya no les llega a quienes ya hablaron contigo (interesados, con cita…), y un solo botón «Enviar a N». |
-| **1.8.1** | 03‑10‑2026 | Ves el correo entero antes de enviar una tanda, «Interesado» pasa a naranja, los estados se llaman más claro y Llamar deja para el final los negocios cerrados. |
-| **1.8.0** | 03‑10‑2026 | Las pantallas de trabajo diario, renovadas: Correos enseña a quién escribes y en qué va cada uno, Llamar pone primero lo que se dice al teléfono, y los teléfonos se leen agrupados. |
+#### 1.8.17 · 13‑10‑2026
+
+**ARREGLADO:**
+
+- Buscar un tipo de negocio del que hay pocos en el pueblo ya no trae los de otras categorías: Arcia sabe qué categorías tiene Google Maps.
+
+#### 1.8.16 · 12‑10‑2026
+
+**ARREGLADO:**
+
+- La web de una cadena ya no se toma por un portal: si el dominio lleva el nombre del negocio, se queda como su web.
+
+#### 1.8.15 · 12‑10‑2026
+
+**AÑADIDO:**
+
+- Lo que corregís todos los usuarios vuelve a cada copia como reglas, sin esperar a una versión nueva.
+
+**ARREGLADO:**
+
+- Si el buscador no contesta, el negocio queda pendiente en vez de «sin web», y Arcia vuelve a preguntar al final del escaneo.
+
+#### 1.8.14 · 12‑10‑2026
+
+**MEJORADO:**
+
+- Si Arcia no puede leer tu buzón, la barra de Correos te dice desde cuándo y qué hacer, en vez de dejar las secuencias en pausa sin avisar.
+- Si «Entrar con Google» no deja conectar, se abren los pasos de la contraseña de aplicación.
+
+#### 1.8.13 · 12‑10‑2026
+
+**MEJORADO:**
+
+- Con «Entrar con Google», Gmail va por su API: las respuestas se leen también en redes que bloquean el correo.
+
+**ARREGLADO:**
+
+- «Enviar a soporte» ya no da error ni se queda esperando cuando el informe ha llegado.
+
+#### 1.8.12 · 05‑10‑2026
+
+**ARREGLADO:**
+
+- Ningún negocio se guarda ya con las fotos y las reseñas de otro: cada ficha de Maps se comprueba antes de guardarla, y las que estaban cruzadas se limpian al actualizar.
+
+#### 1.8.11 · 05‑10‑2026
+
+**ARREGLADO:**
+
+- La ventana ya no parpadea al escanear o buscar correos.
+- La barra de Correos se ordena bien con la ficha de un negocio abierta.
+
+#### 1.8.10 · 05‑10‑2026
+
+**ARREGLADO:**
+
+- Reconoce las franquicias aunque Google Maps abrevie la calle del local, y ya no las da como negocios sin web.
+
+#### 1.8.9 · 04‑10‑2026
+
+**ARREGLADO:**
+
+- Ya no toma por la web de un negocio su ficha en un directorio ni la de otro negocio que se llama igual en la misma ciudad.
+
+#### 1.8.8 · 04‑10‑2026
+
+**MEJORADO:**
+
+- Acierta más con los negocios sin web: encuentra webs de cadena y con la ciudad en el nombre, aparta franquicias y concesiones, y vuelve a revisar las webs mal atribuidas.
+
+#### 1.8.7 · 04‑10‑2026
+
+**AÑADIDO:**
+
+- «Otro día» en la Agenda para mover un seguimiento.
+
+**MEJORADO:**
+
+- El teléfono funciona como botón de llamar.
+- Correos dice por qué no deja enviar.
+
+#### 1.8.6 · 04‑10‑2026
+
+**MEJORADO:**
+
+- Ajustes más corto: cada opción se explica en una línea y lo demás va plegado; Búsqueda e IA caben de un vistazo.
+
+#### 1.8.5 · 04‑10‑2026
+
+**MEJORADO:**
+
+- La agenda va en columnas y Resultados se lee más corto.
+
+**ARREGLADO:**
+
+- Cerrar una cita ya no tapa el botón de WhatsApp.
+- «Enviar a N» cuenta solo a quien recibiría el correo.
+
+#### 1.8.4 · 04‑10‑2026
+
+**ARREGLADO:**
+
+- Con la ficha de un negocio abierta, la cabecera de Correos ya no se apila y los botones de filtros ya no se cortan.
+
+#### 1.8.3 · 04‑10‑2026
+
+**MEJORADO:**
+
+- La cita que cierras al llamar pasa a la agenda con su hora.
+- Correos avisa si tu correo no está conectado.
+- «Si algo falla» dice en cuánto te contestamos.
+
+#### 1.8.2 · 03‑10‑2026
+
+**MEJORADO:**
+
+- Un solo botón «Enviar a N».
+
+**ARREGLADO:**
+
+- El correo de primer contacto ya no les llega a quienes ya hablaron contigo (interesados, con cita…).
+
+#### 1.8.1 · 03‑10‑2026
+
+**AÑADIDO:**
+
+- Ves el correo entero antes de enviar una tanda.
+
+**MEJORADO:**
+
+- «Interesado» pasa a naranja y los estados se llaman más claro.
+- Llamar deja para el final los negocios cerrados.
+
+#### 1.8.0 · 03‑10‑2026
+
+**MEJORADO:**
+
+- Las pantallas de trabajo diario, renovadas: Correos enseña a quién escribes y en qué va cada uno, y Llamar pone primero lo que se dice al teléfono.
+- Los teléfonos se leen agrupados.
 
 </details>
 
 <details>
 <summary><strong>Arcia 1.7</strong> · 22 versiones</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.7.21** | 03‑10‑2026 | Los presupuestos llevan retención de IRPF si la aplicas, y puedes elegir desde qué número sigue tu serie. |
-| **1.7.20** | 03‑10‑2026 | Ajustes más claros: el aviso de Google en una línea, cómo sacar gratis la clave de IA, rehacer los guiones al guardar uno nuevo y aviso si borras la baja del correo. |
-| **1.7.19** | 03‑10‑2026 | Ajustes renovados: vista previa de las plantillas, copias de seguridad que se ven y se restauran, tu logo en los presupuestos y textos más claros en todas las secciones. |
-| **1.7.18** | 03‑10‑2026 | El correo de tu propio dominio se puede conectar aunque antes estuviera puesto Outlook, y «Otro» empieza con el servidor vacío. |
-| **1.7.17** | 03‑10‑2026 | Los buzones extra de Gmail y Outlook se conectan con «Entrar con Google» o «Entrar con Microsoft», y con Outlook ya no se ofrece la contraseña de aplicación, que Microsoft ya no acepta. |
-| **1.7.16** | 03‑10‑2026 | La pantalla de conectar el correo ya no repite, con Gmail u Outlook, lo que dice el botón de arriba. |
-| **1.7.15** | 03‑10‑2026 | «Entrar con Microsoft» vuelve a enviar con las cuentas de Outlook y Hotmail nuevas y las de empresa: Microsoft les ha apagado el SMTP y Arcia ya no lo usa. Quien ya había conectado tiene que volver a pulsar el botón. |
-| **1.7.14** | 03‑10‑2026 | Entrar con Google o Microsoft aguanta cualquier orden de clics: todas las páginas que se abren valen, hay quince minutos para terminar y una página de más ya no da error. |
-| **1.7.13** | 02‑10‑2026 | Al volver a Arcia sin haber terminado de entrar con Google o Microsoft, el botón deja de cargar y explica cómo seguir o volver a empezar. |
-| **1.7.12** | 02‑10‑2026 | Si se cierra sin querer la página de inicio de sesión de Google o Microsoft, volver a pulsar el botón abre otra al momento, sin esperar. |
-| **1.7.11** | 02‑10‑2026 | Botones «Entrar con Google» y «Entrar con Microsoft» rediseñados, y «¿Quién te lleva el correo?» solo con Zoho y el correo del hosting. |
-| **1.7.10** | 02‑10‑2026 | «Entrar con Microsoft» en Ajustes → Correo: Outlook, Hotmail, Live y Microsoft 365 se conectan eligiendo la cuenta en el navegador, sin contraseña de aplicación. |
-| **1.7.9** | 02‑10‑2026 | Con Gmail o Google Workspace el correo se conecta solo con «Entrar con Google», sin clave; los pasos de la clave quedan para Outlook, Zoho y el correo del dominio. |
-| **1.7.8** | 01‑10‑2026 | «Entrar con Google» en Ajustes → Correo: Gmail se conecta eligiendo la cuenta en el navegador, sin contraseña de aplicación, y «Desconectar» le retira el permiso a Arcia en tu cuenta de Google. |
-| **1.7.7** | 01‑10‑2026 | Conectar el correo en tres pasos, un tutorial con cada pantalla en marcha y el embudo explicado, comprobación de «Tu perfil», Ajustes con menos texto y una revisión de webs que ya no da por «sin pedidos» a quien pide por Glovo o Uber Eats ni por «no adaptada al móvil» a quien sí lo está. |
-| **1.7.6** | 30‑09‑2026 | Las fichas de los negocios con web mala o mejorable enseñan sus fotos: al abrir una que no las tenía, Arcia las busca en su ficha de Google Maps. |
-| **1.7.5** | 30‑09‑2026 | No solo webs: carta QR, reservas, citas y pedidos según el gremio, de lo que tú vendes. Lista nueva «Mejorable» (web buena que no deja reservar, pedir o coger cita), recordatorio a los 3 días de mandar un presupuesto, «Presupuestos» y «Qué se vende» en Resultados, y la propuesta con IA en lista corta. |
-| **1.7.4** | 30‑09‑2026 | «Afinarla con IA» ya no enseña la propuesta cortada a media frase: más margen para el modelo, comprueba que llega entera y la vuelve a pedir si no. |
-| **1.7.3** | 30‑09‑2026 | «Qué ofrecerle» a cada negocio en la ficha, según el fallo de su web o su gremio, que se convierte en presupuesto con tus tarifas y se puede afinar con IA; y la fila de su web más ordenada. |
-| **1.7.2** | 30‑09‑2026 | El editor de presupuestos vuelve a abrirse a lo ancho (en la 1.7.1 salía encogido dentro de la ficha), y más ordenado. |
-| **1.7.1** | 30‑09‑2026 | La ficha del negocio ordenada: arriba la nota, el teléfono, el estado y la próxima acción, y debajo tres pestañas —Resumen, Venta y Detalles— en vez de dieciséis bloques seguidos. |
-| **1.7.0** | 30‑09‑2026 | Los negocios con la web mala (no carga, no se ve en el móvil, sin candado, a la venta, un Linktree o un PDF) en su propia lista, separada de los que no tienen web, en Leads y en Llamar; presupuestos en PDF desde la ficha, mandados desde tu correo; y el orden «Mejor oportunidad» en Leads. |
+#### 1.7.21 · 03‑10‑2026
+
+**AÑADIDO:**
+
+- Los presupuestos llevan retención de IRPF si la aplicas.
+- Puedes elegir desde qué número sigue tu serie de presupuestos.
+
+#### 1.7.20 · 03‑10‑2026
+
+**AÑADIDO:**
+
+- Aviso si borras la baja del correo.
+- Puedes rehacer los guiones al guardar uno nuevo.
+
+**MEJORADO:**
+
+- Ajustes más claros: el aviso de Google en una línea y cómo sacar gratis la clave de IA.
+
+#### 1.7.19 · 03‑10‑2026
+
+**AÑADIDO:**
+
+- Vista previa de las plantillas.
+- Copias de seguridad que se ven y se restauran.
+- Tu logo en los presupuestos.
+
+**MEJORADO:**
+
+- Ajustes renovados, con textos más claros en todas las secciones.
+
+#### 1.7.18 · 03‑10‑2026
+
+**ARREGLADO:**
+
+- El correo de tu propio dominio se puede conectar aunque antes estuviera puesto Outlook.
+- «Otro» empieza con el servidor vacío.
+
+#### 1.7.17 · 03‑10‑2026
+
+**AÑADIDO:**
+
+- Los buzones extra de Gmail y Outlook se conectan con «Entrar con Google» o «Entrar con Microsoft».
+
+**MEJORADO:**
+
+- Con Outlook ya no se ofrece la contraseña de aplicación, que Microsoft ya no acepta.
+
+#### 1.7.16 · 03‑10‑2026
+
+**MEJORADO:**
+
+- La pantalla de conectar el correo ya no repite, con Gmail u Outlook, lo que dice el botón de arriba.
+
+#### 1.7.15 · 03‑10‑2026
+
+**ARREGLADO:**
+
+- «Entrar con Microsoft» vuelve a enviar con las cuentas de Outlook y Hotmail nuevas y las de empresa: Microsoft les ha apagado el SMTP y Arcia ya no lo usa. Quien ya había conectado tiene que volver a pulsar el botón.
+
+#### 1.7.14 · 03‑10‑2026
+
+**ARREGLADO:**
+
+- Entrar con Google o Microsoft aguanta cualquier orden de clics: todas las páginas que se abren valen, hay quince minutos para terminar y una página de más ya no da error.
+
+#### 1.7.13 · 02‑10‑2026
+
+**ARREGLADO:**
+
+- Al volver a Arcia sin haber terminado de entrar con Google o Microsoft, el botón deja de cargar y explica cómo seguir o volver a empezar.
+
+#### 1.7.12 · 02‑10‑2026
+
+**ARREGLADO:**
+
+- Si se cierra sin querer la página de inicio de sesión de Google o Microsoft, volver a pulsar el botón abre otra al momento, sin esperar.
+
+#### 1.7.11 · 02‑10‑2026
+
+**MEJORADO:**
+
+- Botones «Entrar con Google» y «Entrar con Microsoft» rediseñados.
+- «¿Quién te lleva el correo?» solo con Zoho y el correo del hosting.
+
+#### 1.7.10 · 02‑10‑2026
+
+**AÑADIDO:**
+
+- «Entrar con Microsoft» en Ajustes → Correo: Outlook, Hotmail, Live y Microsoft 365 se conectan eligiendo la cuenta en el navegador, sin contraseña de aplicación.
+
+#### 1.7.9 · 02‑10‑2026
+
+**MEJORADO:**
+
+- Con Gmail o Google Workspace el correo se conecta solo con «Entrar con Google», sin clave; los pasos de la clave quedan para Outlook, Zoho y el correo del dominio.
+
+#### 1.7.8 · 01‑10‑2026
+
+**AÑADIDO:**
+
+- «Entrar con Google» en Ajustes → Correo: Gmail se conecta eligiendo la cuenta en el navegador, sin contraseña de aplicación.
+- «Desconectar» le retira el permiso a Arcia en tu cuenta de Google.
+
+#### 1.7.7 · 01‑10‑2026
+
+**AÑADIDO:**
+
+- Un tutorial con cada pantalla en marcha y el embudo explicado.
+- Comprobación de «Tu perfil».
+
+**MEJORADO:**
+
+- Conectar el correo en tres pasos.
+- Ajustes con menos texto.
+
+**ARREGLADO:**
+
+- La revisión de webs ya no da por «sin pedidos» a quien pide por Glovo o Uber Eats, ni por «no adaptada al móvil» a quien sí lo está.
+
+#### 1.7.6 · 30‑09‑2026
+
+**ARREGLADO:**
+
+- Las fichas de los negocios con web mala o mejorable enseñan sus fotos: al abrir una que no las tenía, Arcia las busca en su ficha de Google Maps.
+
+#### 1.7.5 · 30‑09‑2026
+
+**AÑADIDO:**
+
+- No solo webs: carta QR, reservas, citas y pedidos según el gremio, de lo que tú vendes.
+- Lista nueva «Mejorable»: web buena que no deja reservar, pedir o coger cita.
+- Recordatorio a los 3 días de mandar un presupuesto.
+- «Presupuestos» y «Qué se vende» en Resultados.
+
+**MEJORADO:**
+
+- La propuesta con IA, en lista corta.
+
+#### 1.7.4 · 30‑09‑2026
+
+**ARREGLADO:**
+
+- «Afinarla con IA» ya no enseña la propuesta cortada a media frase: más margen para el modelo, comprueba que llega entera y la vuelve a pedir si no.
+
+#### 1.7.3 · 30‑09‑2026
+
+**AÑADIDO:**
+
+- «Qué ofrecerle» a cada negocio en la ficha, según el fallo de su web o su gremio, que se convierte en presupuesto con tus tarifas y se puede afinar con IA.
+
+**MEJORADO:**
+
+- La fila de su web, más ordenada.
+
+#### 1.7.2 · 30‑09‑2026
+
+**MEJORADO:**
+
+- El editor de presupuestos, más ordenado.
+
+**ARREGLADO:**
+
+- El editor de presupuestos vuelve a abrirse a lo ancho: en la 1.7.1 salía encogido dentro de la ficha.
+
+#### 1.7.1 · 30‑09‑2026
+
+**MEJORADO:**
+
+- La ficha del negocio ordenada: arriba la nota, el teléfono, el estado y la próxima acción, y debajo tres pestañas —Resumen, Venta y Detalles— en vez de dieciséis bloques seguidos.
+
+#### 1.7.0 · 30‑09‑2026
+
+**AÑADIDO:**
+
+- Los negocios con la web mala (no carga, no se ve en el móvil, sin candado, a la venta, un Linktree o un PDF) en su propia lista, separada de los que no tienen web, en Leads y en Llamar.
+- Presupuestos en PDF desde la ficha, mandados desde tu correo.
+- El orden «Mejor oportunidad» en Leads.
 
 </details>
 
 <details>
 <summary><strong>Arcia 1.6</strong> · 99 versiones</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.6.100** | 28‑09‑2026 | Menos negocios con web dados por «sin web» (prueba «restaurante» delante del nombre y descubre la web por el correo), un corte de conexión breve ya no tumba el escaneo, correos más fiables con nombres cortos y la barra de seleccionados sin cortarse con la ficha abierta. |
-| **1.6.99** | 25‑09‑2026 | Las bajas ya no se pierden al vaciar la base ni al borrar una ficha, términos 1.5 publicados en arcia.es/terminos, el informe a soporte se ve antes de enviarlo, la IA se acepta modelo a modelo y el aprendizaje compartido se borra a los 12 meses. |
-| **1.6.98** | 25‑09‑2026 | El escaneo aprende de las correcciones de todas las copias (portales y categorías compartidos, se apaga en Ajustes → Datos; términos 1.4), «Llamo desde el móvil» con la tecla E para contar la duración marcando a mano y el horario de otro día sin apretujar. |
-| **1.6.97** | 25‑09‑2026 | Botón «Llamar» con Enlace Móvil de Windows en la pantalla de llamadas, la ficha y la Agenda; la duración de cada llamada cuenta desde que llamas hasta que marcas el resultado; y las empresas recién creadas empiezan en tu provincia. |
-| **1.6.96** | 24‑09‑2026 | Ningún correo en cola sale a quien acabas de dar de baja o ha contestado, una respuesta nueva detiene también la secuencia de un recontacto, el CSV exportado se vuelve a importar limpio y los avisos de error sin huecos en medio. |
-| **1.6.95** | 24‑09‑2026 | Revisión de seguridad: las claves de servicios pasan al almacén de credenciales de Windows, el informe a soporte va sin datos de nadie y el CSV no ejecuta fórmulas al abrirlo en Excel. |
-| **1.6.94** | 23‑09‑2026 | Textos sin jerga en Prospección, OpenCode Zen retirado de los proveedores de IA (pasa a OpenRouter sin perder ajustes), la web de muestra explica cómo publicarla y el aviso automático a soporte viene apagado. |
-| **1.6.93** | 23‑09‑2026 | Términos y condiciones 1.3: los correos comerciales que mandes son responsabilidad tuya. El guion ya no se inventa un cliente de referencia, y Ajustes está más limpio. |
-| **1.6.92** | 23‑09‑2026 | Si falla el cobro, la pantalla de activación te deja arreglarlo en Stripe. Los números grandes llevan su punto (1.000), y los correos se presentan para el seguimiento. |
-| **1.6.91** | 23‑09‑2026 | Términos y condiciones 1.2: el cambio de ordenador con suscripción lo haces tú desde la app. Tu licencia explica qué consulta, y las notas de versión llevan tildes y eñes. |
-| **1.6.90** | 23‑09‑2026 | Corregido el aviso sobre el correo comercial no solicitado: la LSSI lo prohíbe también entre empresas. «Enviar a soporte» lleva tu correo para poder contestarte. |
-| **1.6.89** | 23‑09‑2026 | La suscripción se gestiona o se cancela desde la app, y se pasa a otro ordenador con un código por correo. Todas las métricas, en Resultados. |
-| **1.6.88** | 23‑09‑2026 | Los errores se explican en castellano claro y dicen qué hacer, Ajustes → Búsqueda sin tecnicismos, y la activación enseña el precio y los 7 días de prueba gratis. |
-| **1.6.87** | 22‑09‑2026 | Si Google Maps deja de devolver negocios en una búsqueda que antes sí los daba, Arcia lo dice claramente y avisa a soporte con un aviso anónimo que se puede apagar. Términos y condiciones 1.1. |
-| **1.6.86** | 22‑09‑2026 | Mantenimiento: la app, mejor ordenada por dentro. No cambia nada de lo que ves. |
-| **1.6.85** | 21‑09‑2026 | Los términos y condiciones se aceptan antes de activar o pagar, y se pueden releer en Ajustes → Tu licencia. |
-| **1.6.84** | 20‑09‑2026 | Buscar un gremio ya no devuelve de todo: «Hamburguesería» en Elche pasa de 179 negocios mezclados a 23 que lo son. |
-| **1.6.83** | 20‑09‑2026 | Un desplegable que se abre hacia arriba aparece pegado a su campo. |
-| **1.6.82** | 20‑09‑2026 | El aviso de versión nueva ya no parte las frases por la mitad. |
-| **1.6.81** | 20‑09‑2026 | El desplegable de modelos de IA solo enseña los que escriben texto. |
-| **1.6.80** | 20‑09‑2026 | Un escaneo ya no se come la cuota diaria de IA: queda crédito para generar webs. |
-| **1.6.79** | 20‑09‑2026 | Verificar negocios va 2,25 veces más rápido (60 negocios, de 209 s a 93 s) con los mismos resultados. |
-| **1.6.78** | 19‑09‑2026 | Una búsqueda pasa del tope de 120 negocios de Maps preguntando de varias formas. |
-| **1.6.77** | 19‑09‑2026 | Las webs generadas dejan de llevar la marquesina de frases. |
-| **1.6.76** | 19‑09‑2026 | Guardar Ajustes ya no borra el modelo de IA que la app había puesto al día. |
-| **1.6.75** | 19‑09‑2026 | Cuando tu proveedor retira el modelo de IA por defecto, la app se pasa sola al que lo sustituye y te lo dice. |
-| **1.6.74** | 19‑09‑2026 | «Tu zona» es un desplegable de municipios, para que el guion no diga una ciudad mal escrita. |
-| **1.6.73** | 19‑09‑2026 | Un fichero dañado ya no cierra la app a mitad de una tanda. |
-| **1.6.72** | 19‑09‑2026 | Versión de seguridad: componentes al día, y un PDF preparado ya no puede tumbar la app. |
-| **1.6.71** | 19‑09‑2026 | En «Qué guion cierra» cada guion se nombra por sus fechas, y una cita que se cae no le quita el mérito al guion que la consiguió. |
-| **1.6.70** | 19‑09‑2026 | Cuatro cifras de Resultados corregidas: «Qué nicho funciona» agrupa por nicho, un porcentaje pide un mínimo de casos y el embudo ya no pasa del 100 %. |
-| **1.6.69** | 19‑09‑2026 | «Embudo» pasa a llamarse «Resultados». |
-| **1.6.68** | 18‑09‑2026 | La cabecera de la tabla se queda dentro de su tarjeta al desplazar la lista. |
-| **1.6.67** | 18‑09‑2026 | La búsqueda de correos hace una búsqueda menos por lead, y «Regenerar todos los guiones» respeta los escritos a mano. |
-| **1.6.66** | 18‑09‑2026 | Las webs generadas funcionan bien en el móvil. |
-| **1.6.65** | 18‑09‑2026 | Todos los leads por llamar tienen su guion, y un error de la IA ya no dice que Google está caído cuando no lo está. |
-| **1.6.64** | 18‑09‑2026 | «Solo la categoría buscada» aprende cómo llama Google a cada gremio: un sushi es un «Restaurante japonés». |
-| **1.6.63** | 17‑09‑2026 | Si la web de un negocio está enlazada desde su página en un portal (idealista, booksy…), se encuentra. |
-| **1.6.62** | 17‑09‑2026 | Arreglos de la 1.6.61: Correos deja sitio a los leads y el menú cabe en ventanas bajas. |
-| **1.6.61** | 17‑09‑2026 | Del primer correo a la reunión: Arcia lee las respuestas y las aplica, secuencias de seguimiento, recontacto, comprobación de entregabilidad, varios buzones y empresas recién creadas del BORME. |
-| **1.6.60** | 17‑09‑2026 | Un nombre que comparten varios municipios («San Juan») ya no vacía la búsqueda, y «Solo la categoría buscada» viene encendido. |
-| **1.6.59** | 16‑09‑2026 | Arreglos del Embudo: ya se puede desplazar, lleva su cabecera y redondea bien. |
-| **1.6.58** | 16‑09‑2026 | Nueva sección Embudo: de negocios escaneados a euros cobrados, y qué nicho y qué pueblo rinden más. |
-| **1.6.57** | 16‑09‑2026 | Webs generadas más trabajadas —carrusel, carta con pestañas, galería con visor— y sin bloques en blanco. |
-| **1.6.56** | 15‑09‑2026 | El contador de reseñas se lee también en instalaciones nuevas. |
-| **1.6.55** | 15‑09‑2026 | Vuelven las fotos en instalaciones nuevas, y reescanear una zona trae solo lo que no tenías. |
-| **1.6.54** | 14‑09‑2026 | Suscripción mensual: la app se activa sola al pagar y se renueva cada mes sin pegar ninguna clave. |
-| **1.6.53** | 14‑09‑2026 | Una licencia que caduca no se alarga atrasando el reloj del ordenador. |
-| **1.6.52** | 13‑09‑2026 | Pantalla de activación más clara, y entera en ventanas pequeñas. |
-| **1.6.51** | 13‑09‑2026 | Una web que devuelve el buscador solo cuenta si de verdad es del negocio: su teléfono, o su nombre y su ciudad. |
-| **1.6.50** | 13‑09‑2026 | La verificación encuentra muchas más webs de verdad y no confunde fichas de directorios con webs. |
-| **1.6.49** | 13‑09‑2026 | Nueva casilla «Solo negocios de la categoría buscada», y fuera los correos de otras empresas. |
-| **1.6.48** | 13‑09‑2026 | La verificación ya no da la web de otro negocio con nombre parecido ni la ficha de un directorio, que descartaban leads buenos. |
-| **1.6.47** | 13‑09‑2026 | Termina el rediseño: Agenda, tutorial, activación y primera búsqueda. |
-| **1.6.46** | 13‑09‑2026 | Leads, Correos y la ficha de cada negocio, rediseñados. |
-| **1.6.45** | 13‑09‑2026 | Ajustes rediseñado, y cada error trae su botón «Enviar a soporte». |
-| **1.6.44** | 13‑09‑2026 | Prospección rediseñada: la búsqueda en una barra y el resultado justo debajo. |
-| **1.6.43** | 13‑09‑2026 | La pantalla de Llamar, mucho más despejada. |
-| **1.6.42** | 13‑09‑2026 | Los botones de la ventana en su franja, y los leads nuevos ya no se ven amontonados. |
-| **1.6.41** | 13‑09‑2026 | Arreglado un parpadeo del menú al cambiar de sección. |
-| **1.6.40** | 13‑09‑2026 | Diseño nuevo con paneles flotantes, y el informe de soporte se envía sin usar tu correo. |
-| **1.6.39** | 13‑09‑2026 | El horario ya no se da por inexistente cuando lo tapaba el aviso de cookies de Google, y el informe de diagnóstico recoge los errores. |
-| **1.6.38** | 10‑09‑2026 | Buscando en un pueblo ya no se cuelan negocios del de al lado con la ciudad equivocada en el guion. |
-| **1.6.37** | 09‑09‑2026 | La medición de la verificación explica qué quiere decir su «cero». |
-| **1.6.36** | 09‑09‑2026 | La medición de la verificación cuenta también cuándo se toma por web la ficha de un portal. |
-| **1.6.35** | 09‑09‑2026 | La medición de la verificación contaba como fallos tres aciertos. |
-| **1.6.34** | 08‑09‑2026 | La medición de la verificación enseña por dónde va. |
-| **1.6.33** | 08‑09‑2026 | Un proxy bloqueado ya no tumba el escaneo, y nuevo botón para medir cuánto acierta la verificación. |
-| **1.6.32** | 08‑09‑2026 | El tutorial nombra las secciones, y se explica cómo sacar la contraseña de aplicación del correo. |
-| **1.6.31** | 07‑09‑2026 | Tutorial para quien abre Arcia por primera vez. |
-| **1.6.30** | 07‑09‑2026 | El aviso de negocios sin correo se quita al entrar en Correos. |
-| **1.6.29** | 07‑09‑2026 | Escaneos más rápidos: ya no se abren las fichas de los negocios descartados. |
-| **1.6.28** | 07‑09‑2026 | Arreglado Ajustes, que en la 1.6.27 se abría en negro, y el informe de diagnóstico se envía con un botón. |
-| **1.6.27** | 07‑09‑2026 | *Retirada*: dejaba Ajustes en negro. La sustituyó la 1.6.28. |
-| **1.6.26** | 07‑09‑2026 | La búsqueda de correos sigue funcionando cuando DuckDuckGo deja de contestar. |
-| **1.6.25** | 07‑09‑2026 | La búsqueda de respaldo en Bing por fin funciona: los correos encontrados pasan del 5 % al 44 %. |
-| **1.6.24** | 07‑09‑2026 | El aviso de negocios sin correo se queda hasta que lo atiendes. |
-| **1.6.23** | 07‑09‑2026 | Al terminar un escaneo, aviso de los negocios sin correo con un botón para buscárselo. |
-| **1.6.22** | 07‑09‑2026 | El botón de buscar correos, a la vista, y vaciar la base ya no le hace olvidar a la app lo que ha aprendido. |
-| **1.6.19** | 07‑09‑2026 | «Vaciar la base» vacía de verdad, sin tocar tus ajustes ni tu lista de bajas. |
-| **1.6.18** | 06‑09‑2026 | Se retira la extensión del navegador. |
-| **1.6.17** | 06‑09‑2026 | Las webs generadas se ven mejor en el móvil y sin bloques en blanco. |
-| **1.6.16** | 06‑09‑2026 | Webs sin secciones vacías, con horario aunque el negocio tenga varios, y cada una con su propio diseño. |
-| **1.6.15** | 06‑09‑2026 | El icono de WhatsApp ya sale en las webs. |
-| **1.6.14** | 06‑09‑2026 | Los logotipos de marca de las webs salen exactos, de una librería. |
-| **1.6.13** | 06‑09‑2026 | El horario se lee aunque Maps lo tenga plegado, el menú de las webs se lee y se avisa mientras se genera. |
-| **1.6.12** | 06‑09‑2026 | Cuando un modelo de IA gratis falla, Arcia dice qué hacer. |
-| **1.6.11** | 06‑09‑2026 | La web no se inventa el horario, y arreglos de secciones y desplazamiento. |
-| **1.6.10** | 06‑09‑2026 | El horario de la semana se trae solo de Google Maps. |
-| **1.6.9** | 06‑09‑2026 | Horario de la semana en la ficha, y la web usa la carta de las fotos y el mapa. |
-| **1.6.8** | 06‑09‑2026 | Webs con iconos de verdad, portada con el local y SEO. |
-| **1.6.7** | 06‑09‑2026 | Probar la conexión de IA ya no pide aceptar nada antes. |
-| **1.6.6** | 06‑09‑2026 | El tope de webs con IA gratis pasa a ser un contador, y el aviso de datos se ajusta a cada proveedor. |
-| **1.6.5** | 06‑09‑2026 | Proveedores de IA gratis y sin tarjeta: OpenRouter y NVIDIA. |
-| **1.6.4** | 06‑09‑2026 | Permiso explícito para usar los modelos que entrenan con lo que se les manda. |
-| **1.6.3** | 06‑09‑2026 | Nuevos proveedores de IA, OpenCode Zen y Groq, y relevo automático cuando el tuyo no contesta. |
-| **1.6.2** | 06‑09‑2026 | Termina la cara nueva: la letra pasa a ser la del logotipo. |
-| **1.6.1** | 06‑09‑2026 | Arregla un fallo al actualizar desde la 1.5 y quita el azul de la interfaz. |
-| **1.6.0** | 05‑09‑2026 | **Imagen nueva**: nombre, logotipo e iconos nuevos. Mismas funciones. |
+#### 1.6.100 · 28‑09‑2026
+
+**MEJORADO:**
+
+- Menos negocios con web dados por «sin web»: prueba «restaurante» delante del nombre y descubre la web por el correo.
+- Correos más fiables con nombres cortos.
+
+**ARREGLADO:**
+
+- Un corte de conexión breve ya no tumba el escaneo.
+- La barra de seleccionados no se corta con la ficha abierta.
+
+#### 1.6.99 · 25‑09‑2026
+
+**MEJORADO:**
+
+- El informe a soporte se ve antes de enviarlo.
+- La IA se acepta modelo a modelo.
+- El aprendizaje compartido se borra a los 12 meses.
+- Términos 1.5, publicados en arcia.es/terminos.
+
+**ARREGLADO:**
+
+- Las bajas ya no se pierden al vaciar la base ni al borrar una ficha.
+
+#### 1.6.98 · 25‑09‑2026
+
+**AÑADIDO:**
+
+- El escaneo aprende de las correcciones de todas las copias: portales y categorías compartidos, se apaga en Ajustes → Datos. Términos 1.4.
+- «Llamo desde el móvil», con la tecla E, para contar la duración marcando a mano.
+
+**ARREGLADO:**
+
+- El horario de otro día, sin apretujar.
+
+#### 1.6.97 · 25‑09‑2026
+
+**AÑADIDO:**
+
+- Botón «Llamar» con Enlace Móvil de Windows en la pantalla de llamadas, la ficha y la Agenda.
+
+**MEJORADO:**
+
+- La duración de cada llamada cuenta desde que llamas hasta que marcas el resultado.
+- Las empresas recién creadas empiezan en tu provincia.
+
+#### 1.6.96 · 24‑09‑2026
+
+**ARREGLADO:**
+
+- Ningún correo en cola sale a quien acabas de dar de baja o ha contestado.
+- Una respuesta nueva detiene también la secuencia de un recontacto.
+- El CSV exportado se vuelve a importar limpio.
+- Los avisos de error, sin huecos en medio.
+
+#### 1.6.95 · 24‑09‑2026
+
+**MEJORADO:**
+
+- Revisión de seguridad: las claves de servicios pasan al almacén de credenciales de Windows y el informe a soporte va sin datos de nadie.
+
+**ARREGLADO:**
+
+- El CSV no ejecuta fórmulas al abrirlo en Excel.
+
+#### 1.6.94 · 23‑09‑2026
+
+**MEJORADO:**
+
+- Textos sin jerga en Prospección.
+- OpenCode Zen se retira de los proveedores de IA: pasa a OpenRouter sin perder ajustes.
+- La web de muestra explica cómo publicarla.
+- El aviso automático a soporte viene apagado.
+
+#### 1.6.93 · 23‑09‑2026
+
+**MEJORADO:**
+
+- Términos y condiciones 1.3: los correos comerciales que mandes son responsabilidad tuya.
+- Ajustes está más limpio.
+
+**ARREGLADO:**
+
+- El guion ya no se inventa un cliente de referencia.
+
+#### 1.6.92 · 23‑09‑2026
+
+**AÑADIDO:**
+
+- Si falla el cobro, la pantalla de activación te deja arreglarlo en Stripe.
+
+**MEJORADO:**
+
+- Los números grandes llevan su punto (1.000).
+- Los correos se presentan para el seguimiento.
+
+#### 1.6.91 · 23‑09‑2026
+
+**MEJORADO:**
+
+- Términos y condiciones 1.2: el cambio de ordenador con suscripción lo haces tú desde la app.
+- Tu licencia explica qué consulta.
+- Las notas de versión llevan tildes y eñes.
+
+#### 1.6.90 · 23‑09‑2026
+
+**MEJORADO:**
+
+- «Enviar a soporte» lleva tu correo para poder contestarte.
+
+**ARREGLADO:**
+
+- Corregido el aviso sobre el correo comercial no solicitado: la LSSI lo prohíbe también entre empresas.
+
+#### 1.6.89 · 23‑09‑2026
+
+**AÑADIDO:**
+
+- La suscripción se gestiona o se cancela desde la app, y se pasa a otro ordenador con un código por correo.
+
+**MEJORADO:**
+
+- Todas las métricas, en Resultados.
+
+#### 1.6.88 · 23‑09‑2026
+
+**MEJORADO:**
+
+- Los errores se explican en castellano claro y dicen qué hacer.
+- Ajustes → Búsqueda, sin tecnicismos.
+- La activación enseña el precio y los 7 días de prueba gratis.
+
+#### 1.6.87 · 22‑09‑2026
+
+**AÑADIDO:**
+
+- Si Google Maps deja de devolver negocios en una búsqueda que antes sí los daba, Arcia lo dice claramente y avisa a soporte con un aviso anónimo que se puede apagar.
+
+**MEJORADO:**
+
+- Términos y condiciones 1.1.
+
+#### 1.6.86 · 22‑09‑2026
+
+**MEJORADO:**
+
+- Mantenimiento: la app, mejor ordenada por dentro. No cambia nada de lo que ves.
+
+#### 1.6.85 · 21‑09‑2026
+
+**AÑADIDO:**
+
+- Los términos y condiciones se aceptan antes de activar o pagar, y se pueden releer en Ajustes → Tu licencia.
+
+#### 1.6.84 · 20‑09‑2026
+
+**ARREGLADO:**
+
+- Buscar un gremio ya no devuelve de todo: «Hamburguesería» en Elche pasa de 179 negocios mezclados a 23 que lo son.
+
+#### 1.6.83 · 20‑09‑2026
+
+**ARREGLADO:**
+
+- Un desplegable que se abre hacia arriba aparece pegado a su campo.
+
+#### 1.6.82 · 20‑09‑2026
+
+**ARREGLADO:**
+
+- El aviso de versión nueva ya no parte las frases por la mitad.
+
+#### 1.6.81 · 20‑09‑2026
+
+**ARREGLADO:**
+
+- El desplegable de modelos de IA solo enseña los que escriben texto.
+
+#### 1.6.80 · 20‑09‑2026
+
+**ARREGLADO:**
+
+- Un escaneo ya no se come la cuota diaria de IA: queda crédito para generar webs.
+
+#### 1.6.79 · 20‑09‑2026
+
+**MEJORADO:**
+
+- Verificar negocios va 2,25 veces más rápido (60 negocios, de 209 s a 93 s) con los mismos resultados.
+
+#### 1.6.78 · 19‑09‑2026
+
+**MEJORADO:**
+
+- Una búsqueda pasa del tope de 120 negocios de Maps preguntando de varias formas.
+
+#### 1.6.77 · 19‑09‑2026
+
+**MEJORADO:**
+
+- Las webs generadas dejan de llevar la marquesina de frases.
+
+#### 1.6.76 · 19‑09‑2026
+
+**ARREGLADO:**
+
+- Guardar Ajustes ya no borra el modelo de IA que la app había puesto al día.
+
+#### 1.6.75 · 19‑09‑2026
+
+**MEJORADO:**
+
+- Cuando tu proveedor retira el modelo de IA por defecto, la app se pasa sola al que lo sustituye y te lo dice.
+
+#### 1.6.74 · 19‑09‑2026
+
+**MEJORADO:**
+
+- «Tu zona» es un desplegable de municipios, para que el guion no diga una ciudad mal escrita.
+
+#### 1.6.73 · 19‑09‑2026
+
+**ARREGLADO:**
+
+- Un fichero dañado ya no cierra la app a mitad de una tanda.
+
+#### 1.6.72 · 19‑09‑2026
+
+**MEJORADO:**
+
+- Versión de seguridad: componentes al día.
+
+**ARREGLADO:**
+
+- Un PDF preparado ya no puede tumbar la app.
+
+#### 1.6.71 · 19‑09‑2026
+
+**MEJORADO:**
+
+- En «Qué guion cierra» cada guion se nombra por sus fechas.
+
+**ARREGLADO:**
+
+- Una cita que se cae no le quita el mérito al guion que la consiguió.
+
+#### 1.6.70 · 19‑09‑2026
+
+**ARREGLADO:**
+
+- Cuatro cifras de Resultados corregidas: «Qué nicho funciona» agrupa por nicho, un porcentaje pide un mínimo de casos y el embudo ya no pasa del 100 %.
+
+#### 1.6.69 · 19‑09‑2026
+
+**MEJORADO:**
+
+- «Embudo» pasa a llamarse «Resultados».
+
+#### 1.6.68 · 18‑09‑2026
+
+**ARREGLADO:**
+
+- La cabecera de la tabla se queda dentro de su tarjeta al desplazar la lista.
+
+#### 1.6.67 · 18‑09‑2026
+
+**MEJORADO:**
+
+- La búsqueda de correos hace una búsqueda menos por lead.
+
+**ARREGLADO:**
+
+- «Regenerar todos los guiones» respeta los escritos a mano.
+
+#### 1.6.66 · 18‑09‑2026
+
+**ARREGLADO:**
+
+- Las webs generadas funcionan bien en el móvil.
+
+#### 1.6.65 · 18‑09‑2026
+
+**ARREGLADO:**
+
+- Todos los leads por llamar tienen su guion.
+- Un error de la IA ya no dice que Google está caído cuando no lo está.
+
+#### 1.6.64 · 18‑09‑2026
+
+**MEJORADO:**
+
+- «Solo la categoría buscada» aprende cómo llama Google a cada gremio: un sushi es un «Restaurante japonés».
+
+#### 1.6.63 · 17‑09‑2026
+
+**MEJORADO:**
+
+- Si la web de un negocio está enlazada desde su página en un portal (idealista, booksy…), se encuentra.
+
+#### 1.6.62 · 17‑09‑2026
+
+**ARREGLADO:**
+
+- Arreglos de la 1.6.61: Correos deja sitio a los leads y el menú cabe en ventanas bajas.
+
+#### 1.6.61 · 17‑09‑2026
+
+**AÑADIDO:**
+
+- Del primer correo a la reunión: Arcia lee las respuestas y las aplica.
+- Secuencias de seguimiento y recontacto.
+- Comprobación de entregabilidad.
+- Varios buzones.
+- Empresas recién creadas del BORME.
+
+#### 1.6.60 · 17‑09‑2026
+
+**MEJORADO:**
+
+- «Solo la categoría buscada» viene encendido.
+
+**ARREGLADO:**
+
+- Un nombre que comparten varios municipios («San Juan») ya no vacía la búsqueda.
+
+#### 1.6.59 · 16‑09‑2026
+
+**ARREGLADO:**
+
+- Arreglos del Embudo: ya se puede desplazar, lleva su cabecera y redondea bien.
+
+#### 1.6.58 · 16‑09‑2026
+
+**AÑADIDO:**
+
+- Nueva sección Embudo: de negocios escaneados a euros cobrados, y qué nicho y qué pueblo rinden más.
+
+#### 1.6.57 · 16‑09‑2026
+
+**MEJORADO:**
+
+- Webs generadas más trabajadas: carrusel, carta con pestañas y galería con visor.
+
+**ARREGLADO:**
+
+- Las webs generadas ya no salen con bloques en blanco.
+
+#### 1.6.56 · 15‑09‑2026
+
+**ARREGLADO:**
+
+- El contador de reseñas se lee también en instalaciones nuevas.
+
+#### 1.6.55 · 15‑09‑2026
+
+**MEJORADO:**
+
+- Reescanear una zona trae solo lo que no tenías.
+
+**ARREGLADO:**
+
+- Vuelven las fotos en instalaciones nuevas.
+
+#### 1.6.54 · 14‑09‑2026
+
+**AÑADIDO:**
+
+- Suscripción mensual: la app se activa sola al pagar y se renueva cada mes sin pegar ninguna clave.
+
+#### 1.6.53 · 14‑09‑2026
+
+**ARREGLADO:**
+
+- Una licencia que caduca no se alarga atrasando el reloj del ordenador.
+
+#### 1.6.52 · 13‑09‑2026
+
+**MEJORADO:**
+
+- Pantalla de activación más clara, y entera en ventanas pequeñas.
+
+#### 1.6.51 · 13‑09‑2026
+
+**MEJORADO:**
+
+- Una web que devuelve el buscador solo cuenta si de verdad es del negocio: su teléfono, o su nombre y su ciudad.
+
+#### 1.6.50 · 13‑09‑2026
+
+**MEJORADO:**
+
+- La verificación encuentra muchas más webs de verdad.
+
+**ARREGLADO:**
+
+- La verificación no confunde fichas de directorios con webs.
+
+#### 1.6.49 · 13‑09‑2026
+
+**AÑADIDO:**
+
+- Nueva casilla «Solo negocios de la categoría buscada».
+
+**ARREGLADO:**
+
+- Fuera los correos de otras empresas.
+
+#### 1.6.48 · 13‑09‑2026
+
+**ARREGLADO:**
+
+- La verificación ya no da la web de otro negocio con nombre parecido ni la ficha de un directorio, que descartaban leads buenos.
+
+#### 1.6.47 · 13‑09‑2026
+
+**MEJORADO:**
+
+- Termina el rediseño: Agenda, tutorial, activación y primera búsqueda.
+
+#### 1.6.46 · 13‑09‑2026
+
+**MEJORADO:**
+
+- Leads, Correos y la ficha de cada negocio, rediseñados.
+
+#### 1.6.45 · 13‑09‑2026
+
+**AÑADIDO:**
+
+- Cada error trae su botón «Enviar a soporte».
+
+**MEJORADO:**
+
+- Ajustes rediseñado.
+
+#### 1.6.44 · 13‑09‑2026
+
+**MEJORADO:**
+
+- Prospección rediseñada: la búsqueda en una barra y el resultado justo debajo.
+
+#### 1.6.43 · 13‑09‑2026
+
+**MEJORADO:**
+
+- La pantalla de Llamar, mucho más despejada.
+
+#### 1.6.42 · 13‑09‑2026
+
+**MEJORADO:**
+
+- Los botones de la ventana, en su franja.
+
+**ARREGLADO:**
+
+- Los leads nuevos ya no se ven amontonados.
+
+#### 1.6.41 · 13‑09‑2026
+
+**ARREGLADO:**
+
+- Arreglado un parpadeo del menú al cambiar de sección.
+
+#### 1.6.40 · 13‑09‑2026
+
+**MEJORADO:**
+
+- Diseño nuevo con paneles flotantes.
+- El informe de soporte se envía sin usar tu correo.
+
+#### 1.6.39 · 13‑09‑2026
+
+**MEJORADO:**
+
+- El informe de diagnóstico recoge los errores.
+
+**ARREGLADO:**
+
+- El horario ya no se da por inexistente cuando lo tapaba el aviso de cookies de Google.
+
+#### 1.6.38 · 10‑09‑2026
+
+**ARREGLADO:**
+
+- Buscando en un pueblo ya no se cuelan negocios del de al lado con la ciudad equivocada en el guion.
+
+#### 1.6.37 · 09‑09‑2026
+
+**MEJORADO:**
+
+- La medición de la verificación explica qué quiere decir su «cero».
+
+#### 1.6.36 · 09‑09‑2026
+
+**MEJORADO:**
+
+- La medición de la verificación cuenta también cuándo se toma por web la ficha de un portal.
+
+#### 1.6.35 · 09‑09‑2026
+
+**ARREGLADO:**
+
+- La medición de la verificación contaba como fallos tres aciertos.
+
+#### 1.6.34 · 08‑09‑2026
+
+**MEJORADO:**
+
+- La medición de la verificación enseña por dónde va.
+
+#### 1.6.33 · 08‑09‑2026
+
+**AÑADIDO:**
+
+- Nuevo botón para medir cuánto acierta la verificación.
+
+**ARREGLADO:**
+
+- Un proxy bloqueado ya no tumba el escaneo.
+
+#### 1.6.32 · 08‑09‑2026
+
+**MEJORADO:**
+
+- El tutorial nombra las secciones.
+- Se explica cómo sacar la contraseña de aplicación del correo.
+
+#### 1.6.31 · 07‑09‑2026
+
+**AÑADIDO:**
+
+- Tutorial para quien abre Arcia por primera vez.
+
+#### 1.6.30 · 07‑09‑2026
+
+**MEJORADO:**
+
+- El aviso de negocios sin correo se quita al entrar en Correos.
+
+#### 1.6.29 · 07‑09‑2026
+
+**MEJORADO:**
+
+- Escaneos más rápidos: ya no se abren las fichas de los negocios descartados.
+
+#### 1.6.28 · 07‑09‑2026
+
+**MEJORADO:**
+
+- El informe de diagnóstico se envía con un botón.
+
+**ARREGLADO:**
+
+- Arreglado Ajustes, que en la 1.6.27 se abría en negro.
+
+#### 1.6.27 · 07‑09‑2026
+
+*Retirada*: dejaba Ajustes en negro. La sustituyó la 1.6.28.
+
+#### 1.6.26 · 07‑09‑2026
+
+**ARREGLADO:**
+
+- La búsqueda de correos sigue funcionando cuando DuckDuckGo deja de contestar.
+
+#### 1.6.25 · 07‑09‑2026
+
+**ARREGLADO:**
+
+- La búsqueda de respaldo en Bing por fin funciona: los correos encontrados pasan del 5 % al 44 %.
+
+#### 1.6.24 · 07‑09‑2026
+
+**MEJORADO:**
+
+- El aviso de negocios sin correo se queda hasta que lo atiendes.
+
+#### 1.6.23 · 07‑09‑2026
+
+**AÑADIDO:**
+
+- Al terminar un escaneo, aviso de los negocios sin correo con un botón para buscárselo.
+
+#### 1.6.22 · 07‑09‑2026
+
+**MEJORADO:**
+
+- El botón de buscar correos, a la vista.
+
+**ARREGLADO:**
+
+- Vaciar la base ya no le hace olvidar a la app lo que ha aprendido.
+
+#### 1.6.19 · 07‑09‑2026
+
+**ARREGLADO:**
+
+- «Vaciar la base» vacía de verdad, sin tocar tus ajustes ni tu lista de bajas.
+
+#### 1.6.18 · 06‑09‑2026
+
+**MEJORADO:**
+
+- Se retira la extensión del navegador.
+
+#### 1.6.17 · 06‑09‑2026
+
+**MEJORADO:**
+
+- Las webs generadas se ven mejor en el móvil.
+
+**ARREGLADO:**
+
+- Las webs generadas ya no salen con bloques en blanco.
+
+#### 1.6.16 · 06‑09‑2026
+
+**MEJORADO:**
+
+- Cada web, con su propio diseño.
+
+**ARREGLADO:**
+
+- Webs sin secciones vacías, con horario aunque el negocio tenga varios.
+
+#### 1.6.15 · 06‑09‑2026
+
+**ARREGLADO:**
+
+- El icono de WhatsApp ya sale en las webs.
+
+#### 1.6.14 · 06‑09‑2026
+
+**MEJORADO:**
+
+- Los logotipos de marca de las webs salen exactos, de una librería.
+
+#### 1.6.13 · 06‑09‑2026
+
+**MEJORADO:**
+
+- Se avisa mientras se genera la web.
+
+**ARREGLADO:**
+
+- El horario se lee aunque Maps lo tenga plegado.
+- El menú de las webs se lee.
+
+#### 1.6.12 · 06‑09‑2026
+
+**MEJORADO:**
+
+- Cuando un modelo de IA gratis falla, Arcia dice qué hacer.
+
+#### 1.6.11 · 06‑09‑2026
+
+**ARREGLADO:**
+
+- La web no se inventa el horario.
+- Arreglos de secciones y desplazamiento.
+
+#### 1.6.10 · 06‑09‑2026
+
+**AÑADIDO:**
+
+- El horario de la semana se trae solo de Google Maps.
+
+#### 1.6.9 · 06‑09‑2026
+
+**AÑADIDO:**
+
+- Horario de la semana en la ficha.
+
+**MEJORADO:**
+
+- La web usa la carta de las fotos y el mapa.
+
+#### 1.6.8 · 06‑09‑2026
+
+**MEJORADO:**
+
+- Webs con iconos de verdad, portada con el local y SEO.
+
+#### 1.6.7 · 06‑09‑2026
+
+**ARREGLADO:**
+
+- Probar la conexión de IA ya no pide aceptar nada antes.
+
+#### 1.6.6 · 06‑09‑2026
+
+**MEJORADO:**
+
+- El tope de webs con IA gratis pasa a ser un contador.
+- El aviso de datos se ajusta a cada proveedor.
+
+#### 1.6.5 · 06‑09‑2026
+
+**AÑADIDO:**
+
+- Proveedores de IA gratis y sin tarjeta: OpenRouter y NVIDIA.
+
+#### 1.6.4 · 06‑09‑2026
+
+**AÑADIDO:**
+
+- Permiso explícito para usar los modelos que entrenan con lo que se les manda.
+
+#### 1.6.3 · 06‑09‑2026
+
+**AÑADIDO:**
+
+- Nuevos proveedores de IA: OpenCode Zen y Groq.
+- Relevo automático cuando el tuyo no contesta.
+
+#### 1.6.2 · 06‑09‑2026
+
+**MEJORADO:**
+
+- Termina la cara nueva: la letra pasa a ser la del logotipo.
+
+#### 1.6.1 · 06‑09‑2026
+
+**MEJORADO:**
+
+- Se quita el azul de la interfaz.
+
+**ARREGLADO:**
+
+- Arregla un fallo al actualizar desde la 1.5.
+
+#### 1.6.0 · 05‑09‑2026
+
+**MEJORADO:**
+
+- **Imagen nueva**: nombre, logotipo e iconos nuevos. Mismas funciones.
 
 Las versiones 1.6.20 y 1.6.21 no llegaron a publicarse.
 
@@ -340,46 +1405,204 @@ Las versiones 1.6.20 y 1.6.21 no llegaron a publicarse.
 <details>
 <summary><strong>Arcia 1.5</strong> · 11 versiones</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.5.10** | 03‑09‑2026 | Las webs generadas ya se recorren con la rueda del ratón. |
-| **1.5.9** | 02‑09‑2026 | «Hacerle la web» ya funciona: en la 1.5.7 y la 1.5.8 se cortaba siempre. |
-| **1.5.8** | 02‑09‑2026 | Si el proveedor de IA retira el modelo por defecto, la app se arregla sola, y sus errores se leen enteros. |
-| **1.5.7** | 02‑09‑2026 | **Hacerle la web a un lead** con IA, con los colores de su local. Proveedores Kimi y DeepSeek, y el modelo en un desplegable. |
-| **1.5.6** | 02‑09‑2026 | Las variantes de un oficio salen debajo de su oficio y no como un nicho aparte. |
-| **1.5.5** | 02‑09‑2026 | Pronóstico de leads al escribir oficio y ciudad, otras formas de pedir el mismo oficio, y un municipio con dos nombres cuenta una vez. |
-| **1.5.4** | 01‑09‑2026 | Antes de buscar, la app te dice cuántos leads espera darte, y la tanda de llamadas ya no trae leads sin teléfono. |
-| **1.5.3** | 30‑08‑2026 | La búsqueda de correos no repite negocios ya buscados y va más rápida. |
-| **1.5.2** | 30‑08‑2026 | La extensión del navegador se empareja sola y añade negocios desde cualquier página. |
-| **1.5.1** | 28‑08‑2026 | La extensión se instala en dos pasos, y las fotos de los negocios ya no dependen de la suerte. |
-| **1.5.0** | 28‑08‑2026 | Búsqueda de correos cuatro veces más rápida, fuera los negocios fantasma y la ficha del lead más despejada. |
+#### 1.5.10 · 03‑09‑2026
+
+**ARREGLADO:**
+
+- Las webs generadas ya se recorren con la rueda del ratón.
+
+#### 1.5.9 · 02‑09‑2026
+
+**ARREGLADO:**
+
+- «Hacerle la web» ya funciona: en la 1.5.7 y la 1.5.8 se cortaba siempre.
+
+#### 1.5.8 · 02‑09‑2026
+
+**MEJORADO:**
+
+- Si el proveedor de IA retira el modelo por defecto, la app se arregla sola.
+- Sus errores se leen enteros.
+
+#### 1.5.7 · 02‑09‑2026
+
+**AÑADIDO:**
+
+- **Hacerle la web a un lead** con IA, con los colores de su local.
+- Proveedores Kimi y DeepSeek.
+
+**MEJORADO:**
+
+- El modelo, en un desplegable.
+
+#### 1.5.6 · 02‑09‑2026
+
+**MEJORADO:**
+
+- Las variantes de un oficio salen debajo de su oficio y no como un nicho aparte.
+
+#### 1.5.5 · 02‑09‑2026
+
+**AÑADIDO:**
+
+- Pronóstico de leads al escribir oficio y ciudad.
+- Otras formas de pedir el mismo oficio.
+
+**ARREGLADO:**
+
+- Un municipio con dos nombres cuenta una vez.
+
+#### 1.5.4 · 01‑09‑2026
+
+**AÑADIDO:**
+
+- Antes de buscar, la app te dice cuántos leads espera darte.
+
+**ARREGLADO:**
+
+- La tanda de llamadas ya no trae leads sin teléfono.
+
+#### 1.5.3 · 30‑08‑2026
+
+**MEJORADO:**
+
+- La búsqueda de correos no repite negocios ya buscados y va más rápida.
+
+#### 1.5.2 · 30‑08‑2026
+
+**MEJORADO:**
+
+- La extensión del navegador se empareja sola y añade negocios desde cualquier página.
+
+#### 1.5.1 · 28‑08‑2026
+
+**MEJORADO:**
+
+- La extensión se instala en dos pasos.
+
+**ARREGLADO:**
+
+- Las fotos de los negocios ya no dependen de la suerte.
+
+#### 1.5.0 · 28‑08‑2026
+
+**MEJORADO:**
+
+- Búsqueda de correos cuatro veces más rápida.
+- La ficha del lead, más despejada.
+
+**ARREGLADO:**
+
+- Fuera los negocios fantasma.
 
 </details>
 
 <details>
 <summary><strong>Arcia 1.4</strong> · 5 versiones</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.4.4** | 26‑08‑2026 | La etiqueta NUEVO de la primera fila se ve entera. |
-| **1.4.3** | 26‑08‑2026 | Las fotos del local en la ficha, escaneo más rápido y **conexión opcional con IA** para el guion, el correo y buscar webs. |
-| **1.4.2** | 26‑08‑2026 | Lo que trae cada escaneo sale marcado como NUEVO, y dos nichos más: Cafetería de especialidad y Brunch. |
-| **1.4.1** | 26‑08‑2026 | Dos arreglos de la lista al abrir la ficha de un negocio. |
-| **1.4.0** | 25‑08‑2026 | El horario debajo del teléfono, en amarillo si está cerrado; búsqueda de correos más rápida; buscador de Google y extensión del navegador. |
+#### 1.4.4 · 26‑08‑2026
+
+**ARREGLADO:**
+
+- La etiqueta NUEVO de la primera fila se ve entera.
+
+#### 1.4.3 · 26‑08‑2026
+
+**AÑADIDO:**
+
+- Las fotos del local en la ficha.
+- **Conexión opcional con IA** para el guion, el correo y buscar webs.
+
+**MEJORADO:**
+
+- Escaneo más rápido.
+
+#### 1.4.2 · 26‑08‑2026
+
+**AÑADIDO:**
+
+- Lo que trae cada escaneo sale marcado como NUEVO.
+- Dos nichos más: Cafetería de especialidad y Brunch.
+
+#### 1.4.1 · 26‑08‑2026
+
+**ARREGLADO:**
+
+- Dos arreglos de la lista al abrir la ficha de un negocio.
+
+#### 1.4.0 · 25‑08‑2026
+
+**AÑADIDO:**
+
+- El horario debajo del teléfono, en amarillo si está cerrado.
+- Buscador de Google y extensión del navegador.
+
+**MEJORADO:**
+
+- Búsqueda de correos más rápida.
 
 </details>
 
 <details>
 <summary><strong>Arcia 1.0 – 1.3</strong> · 7 versiones</summary>
 
-| Versión | Fecha | Qué cambia |
-|---|---|---|
-| **1.3.0** | 17‑08‑2026 | Revisión del diseño: la tabla se maneja con el teclado, se ordena por columnas, filas compactas y mejor contraste. |
-| **1.2.0** | 17‑08‑2026 | Sin barra de título: la interfaz gana una fila entera. La tanda de envío deja rastro en el registro. |
-| **1.1.1** | 16‑08‑2026 | Tres arreglos: comprobar rebotes, correos de negocios con tildes y el registro de directorios. |
-| **1.1.0** | 16‑08‑2026 | Muchos más correos encontrados (directorio del pueblo, guías en PDF, teléfono); un perfil de Facebook o Instagram ya no cuenta como web; ventana propia. |
-| **1.0.2** | 12‑08‑2026 | Correos en el ayuntamiento y la asociación de comerciantes, 197 nichos con sinónimos y borrar todos los leads de una búsqueda. |
-| **1.0.1** | 10‑08‑2026 | Licencias atadas a tu ordenador y actualizaciones automáticas. |
-| **1.0.0** | 08‑08‑2026 | Primera versión a la venta: escaneo de Google Maps, verificación de si cada negocio tiene web, guion de llamada, correos, y registro e informe de diagnóstico. Ya no está en esta página, y no se actualiza sola: desde ella hay que instalar una versión nueva a mano. |
+#### 1.3.0 · 17‑08‑2026
+
+**MEJORADO:**
+
+- Revisión del diseño: la tabla se maneja con el teclado, se ordena por columnas, filas compactas y mejor contraste.
+
+#### 1.2.0 · 17‑08‑2026
+
+**MEJORADO:**
+
+- Sin barra de título: la interfaz gana una fila entera.
+- La tanda de envío deja rastro en el registro.
+
+#### 1.1.1 · 16‑08‑2026
+
+**ARREGLADO:**
+
+- Tres arreglos: comprobar rebotes, correos de negocios con tildes y el registro de directorios.
+
+#### 1.1.0 · 16‑08‑2026
+
+**AÑADIDO:**
+
+- Ventana propia.
+
+**MEJORADO:**
+
+- Muchos más correos encontrados: directorio del pueblo, guías en PDF y teléfono.
+
+**ARREGLADO:**
+
+- Un perfil de Facebook o Instagram ya no cuenta como web.
+
+#### 1.0.2 · 12‑08‑2026
+
+**AÑADIDO:**
+
+- Borrar todos los leads de una búsqueda.
+
+**MEJORADO:**
+
+- Correos en el ayuntamiento y la asociación de comerciantes.
+- 197 nichos con sinónimos.
+
+#### 1.0.1 · 10‑08‑2026
+
+**AÑADIDO:**
+
+- Licencias atadas a tu ordenador.
+- Actualizaciones automáticas.
+
+#### 1.0.0 · 08‑08‑2026
+
+Ya no está en esta página, y no se actualiza sola: desde ella hay que instalar una versión nueva a mano.
+
+**AÑADIDO:**
+
+- Primera versión a la venta: escaneo de Google Maps, verificación de si cada negocio tiene web, guion de llamada, correos, y registro e informe de diagnóstico.
 
 </details>
