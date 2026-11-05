@@ -74,7 +74,7 @@ coincide, no lo instales.
 
 Arcia funciona entera en tu ordenador. Su base de datos y sus copias de
 seguridad se guardan en local: tus leads, tus notas y tus claves no se envían a
-ningún servidor.
+ningún servidor, salvo lo que tú pongas en una base de equipo (abajo).
 
 **Avisos de fallos de Google.** Desde la 1.6.87 hay una excepción, contada en la cláusula 4 de los términos: si
 Google Maps deja de devolver negocios de una forma que apunta a un fallo de
@@ -104,6 +104,8 @@ o el paso a otro ordenador— para ponerla sola. Solo le manda el código de tu
 ordenador, como ya hacía la suscripción para renovarse cada mes. Sin internet
 sigue funcionando igual.
 
+**Bases de equipo.** Desde la 1.14 puedes trabajar con otras personas sobre una base común. Esa base no va a ningún servidor de Arcia: va en la cuenta gratis de Cloudflare de quien la administra, en la Unión Europea, con una copia en el ordenador de cada participante. Se comparte de cada negocio lo que hace falta para trabajar juntos —sus datos, estado, notas, llamadas, seguimientos, bajas y si se le ha escrito o ha contestado— y el nombre de cada participante. El texto de los correos, las claves, los buzones, las plantillas y los guiones no salen de tu ordenador. Un negocio de tu base solo llega a la de equipo si lo copias tú. El responsable de esa base es quien la administra, y una baja anotada en ella vale para todos. Está en las cláusulas 4, 5 y 6 de los términos 1.9.
+
 **Webs de muestra.** Desde la 1.13, si conectas tu cuenta de Cloudflare y publicas la web de muestra de un negocio, esa web —con su nombre, sus datos y sus fotos— se sube a tu cuenta. Solo cuando pulsas «Publicar», nunca sola. No pasa por ningún servidor de Arcia, y se retira sola a los 30 días.
 
 ## Historial de versiones
@@ -111,7 +113,14 @@ sigue funcionando igual.
 De la más reciente a la más antigua. Cada versión tiene sus notas completas en
 **[Releases](../../releases)**.
 
-### Arcia 1.13
+### Arcia 1.14
+
+| Versión | Fecha | Qué cambia |
+|---|---|---|
+| **1.14.0** | 05‑11‑2026 | Varias bases, y bases de equipo: hasta 5 personas sobre los mismos negocios, con los datos en la cuenta de Cloudflare de quien la administra. Cada uno ve las llamadas, notas, bajas y correos de los demás, y Arcia evita que dos personas llamen o escriban al mismo negocio. Términos 1.9. |
+
+<details>
+<summary><strong>Arcia 1.13</strong> · 7 versiones</summary>
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
@@ -122,6 +131,8 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 | **1.13.2** | 04‑11‑2026 | Mejor aprovechada la pantalla completa: Hoy a dos columnas, con los próximos seguimientos y las últimas respuestas, y Prospección con los escaneos fijos a un lado. |
 | **1.13.1** | 04‑11‑2026 | Pantallas más despejadas y Prospección más simple, con los escaneos en un panel lateral. Las muestras se retiran solas si borras el negocio o pide la baja, y varios arreglos de la 1.13. Términos 1.8. |
 | **1.13.0** | 04‑11‑2026 | Pantalla Hoy con lo que toca y tu objetivo del día. La web de muestra se publica con un enlace en tu cuenta de Cloudflare, con hasta 12 fotos. Arcia sigue trabajando con la ventana cerrada y puede arrancar con Windows. Y prueba dos asuntos para ver cuál consigue más respuestas. |
+
+</details>
 
 <details>
 <summary><strong>Arcia 1.12</strong> · 5 versiones</summary>
