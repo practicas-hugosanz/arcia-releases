@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.14.1** | 05‑11‑2026 | Al pasar la suscripción a otro ordenador, la pantalla dice a quién escribir si no llega el código, y avisa de esperar un minuto si lo pides dos veces. |
 | **1.14.0** | 05‑11‑2026 | Varias bases, y bases de equipo: hasta 5 personas sobre los mismos negocios, con los datos en la cuenta de Cloudflare de quien la administra. Cada uno ve las llamadas, notas, bajas y correos de los demás, y Arcia evita que dos personas llamen o escriban al mismo negocio. Términos 1.9. |
 
 <details>
