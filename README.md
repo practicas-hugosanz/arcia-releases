@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.14.7** | 07‑11‑2026 | Al apagar Windows con Arcia abierta, se cierra sin dejar un error en el registro. |
 | **1.14.6** | 07‑11‑2026 | Una web que no se deja revisar ya no se pide cada hora: se reintenta a la semana. |
 | **1.14.5** | 07‑11‑2026 | «Revisar» en Hoy abre los correos del agente, y cuatro arreglos en las bases de equipo: llamadas que se perdían, negocios a medias, notas borradas y avisos de cupo que no lo eran. |
 | **1.14.4** | 07‑11‑2026 | En Resultados, «Qué tienen tus citas»: qué rasgos comparten los negocios que llegaron a cita y a venta. |
