@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.14.6** | 07‑11‑2026 | Una web que no se deja revisar ya no se pide cada hora: se reintenta a la semana. |
 | **1.14.5** | 07‑11‑2026 | «Revisar» en Hoy abre los correos del agente, y cuatro arreglos en las bases de equipo: llamadas que se perdían, negocios a medias, notas borradas y avisos de cupo que no lo eran. |
 | **1.14.4** | 07‑11‑2026 | En Resultados, «Qué tienen tus citas»: qué rasgos comparten los negocios que llegaron a cita y a venta. |
 | **1.14.3** | 06‑11‑2026 | En una base de equipo, si el plan gratis de Cloudflare llega a su límite del día, Arcia lo dice claro y los cambios suben solos al reiniciarse; cada persona sube como mucho 5.000 negocios al día. |
