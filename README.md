@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.14.4** | 07‑11‑2026 | En Resultados, «Qué tienen tus citas»: qué rasgos comparten los negocios que llegaron a cita y a venta. |
 | **1.14.3** | 06‑11‑2026 | En una base de equipo, si el plan gratis de Cloudflare llega a su límite del día, Arcia lo dice claro y los cambios suben solos al reiniciarse; cada persona sube como mucho 5.000 negocios al día. |
 | **1.14.2** | 06‑11‑2026 | Con la lista de Leads vacía, los pasos salen centrados, y en Hoy los números de cada tarea van en medio. |
 | **1.14.1** | 05‑11‑2026 | Al pasar la suscripción a otro ordenador, la pantalla dice a quién escribir si no llega el código, y avisa de esperar un minuto si lo pides dos veces. |
