@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.14.10** | 11‑11‑2026 | Buscador en Ajustes y el tutorial con todo lo nuevo. Con Ajustes abierto, «Añadir base» ya lleva a «Tus bases». |
 | **1.14.9** | 11‑11‑2026 | En Correos, «Buscar correos» va a la vista, encima de la lista, en vez de dentro de «Pendiente». |
 | **1.14.8** | 10‑11‑2026 | Las webs que Arcia no pudo revisar tienen su lista en Leads, y en la ficha puedes decir tú cómo es cada una. |
 | **1.14.7** | 07‑11‑2026 | Al apagar Windows con Arcia abierta, se cierra sin dejar un error en el registro. |
