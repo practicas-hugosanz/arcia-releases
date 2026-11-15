@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.14.11** | 16‑11‑2026 | Mucho menos texto en toda la app. Pasar a otro ordenador con tu correo funciona también con una licencia de clave. |
 | **1.14.10** | 11‑11‑2026 | Buscador en Ajustes y el tutorial con todo lo nuevo. Con Ajustes abierto, «Añadir base» ya lleva a «Tus bases». |
 | **1.14.9** | 11‑11‑2026 | En Correos, «Buscar correos» va a la vista, encima de la lista, en vez de dentro de «Pendiente». |
 | **1.14.8** | 10‑11‑2026 | Las webs que Arcia no pudo revisar tienen su lista en Leads, y en la ficha puedes decir tú cómo es cada una. |
