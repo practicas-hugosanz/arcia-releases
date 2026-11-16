@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.14.13** | 16‑11‑2026 | Personalizar vuelve a su apartado y el modelo de la IA, a un desplegable. La ventana de tus datos del presupuesto vuelve hasta que la rellenes. |
 | **1.14.12** | 16‑11‑2026 | Cada ajuste se pide cuando hace falta. Tus bases desde el selector del menú; Ajustes en cuatro apartados con «Te falta». |
 | **1.14.11** | 16‑11‑2026 | Mucho menos texto en toda la app. Pasar a otro ordenador con tu correo funciona también con una licencia de clave. |
 | **1.14.10** | 11‑11‑2026 | Buscador en Ajustes y el tutorial con todo lo nuevo. Con Ajustes abierto, «Añadir base» ya lleva a «Tus bases». |
