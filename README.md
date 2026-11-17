@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.14.15** | 17‑11‑2026 | Nueva letra para los textos, Allo; los títulos siguen en Poppins. |
 | **1.14.14** | 16‑11‑2026 | Resultados mide si la web de muestra trae citas. Los pendientes se comprueban solos y se descartan los correos rotos o de otro negocio. |
 | **1.14.13** | 16‑11‑2026 | Personalizar vuelve a su apartado y el modelo de la IA, a un desplegable. La ventana de tus datos del presupuesto vuelve hasta que la rellenes. |
 | **1.14.12** | 16‑11‑2026 | Cada ajuste se pide cuando hace falta. Tus bases desde el selector del menú; Ajustes en cuatro apartados con «Te falta». |
