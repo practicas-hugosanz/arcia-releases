@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.14.17** | 18‑11‑2026 | El botón derecho ya no abre el menú del navegador; en los campos de texto sigue el de copiar y pegar. |
 | **1.14.16** | 17‑11‑2026 | Los locales de una marca con web ya no salen como «sin web»: se comprueba en la web de la marca. |
 | **1.14.15** | 17‑11‑2026 | Nueva letra para los textos, Allo; los títulos siguen en Poppins. |
 | **1.14.14** | 16‑11‑2026 | Resultados mide si la web de muestra trae citas. Los pendientes se comprueban solos y se descartan los correos rotos o de otro negocio. |
