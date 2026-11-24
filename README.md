@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.15.2** | 24‑11‑2026 | Hoy y Prospección ocupan toda la pantalla completa, sin huecos, y en Llamar el guion sale con letra más grande. |
 | **1.15.1** | 22‑11‑2026 | Tutorial nuevo: abre cada sección y te explica cada parte. Con la app recién instalada usa dos negocios de ejemplo que se borran al terminar. |
 | **1.15.0** | 22‑11‑2026 | Un enlace para que el negocio reserve la cita solo, búsquedas que se repiten cada semana, tus clientes con su renovación, las objeciones a un clic en Llamar, los cobros de cada venta y las empresas nuevas del BORME buscadas en Google Maps. IA en tu propio ordenador con Ollama o LM Studio. |
 
