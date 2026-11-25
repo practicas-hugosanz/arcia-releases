@@ -117,6 +117,7 @@ De la más reciente a la más antigua. Cada versión tiene sus notas completas e
 
 | Versión | Fecha | Qué cambia |
 |---|---|---|
+| **1.16.2** | 25‑11‑2026 | Guiones de llamada reescritos con un tono profesional; los negocios sin llamar reciben el nuevo. «Prospección» pasa a «Búsqueda», Leads avisa de los nuevos al acabar y las ciudades salen de más a menos habitantes. |
 | **1.16.1** | 25‑11‑2026 | Ajustes más claros y anchos en pantalla completa: la secuencia en una línea de pasos, Ritmo y Condiciones en filas, y textos que crecen con lo que escribes. El zoom ya no salta sin querer con la rueda: va con Ctrl + más y Ctrl + menos. |
 | **1.16.0** | 24‑11‑2026 | Vende más que webs: SEO local, reseñas, redes, anuncios, asistente de WhatsApp y recepcionista con IA y automatizaciones, cada uno con su guion y con la lista «Para lo que vendes» en Leads y Llamar. Ajustes mucho más cortos. |
 
